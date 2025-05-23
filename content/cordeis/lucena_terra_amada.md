@@ -14,7 +14,7 @@ Quero pedir licença
 Mesmo sem ser doutor  
 Pra declamar minhas rimas  
 Pobres em matéria prima  
-Mas feitas com muito amor
+Mas feitas com muito amor  
 
 Lucena alguém te falou  
 O quanto eu tenho falado  
@@ -25,7 +25,7 @@ Vejo aqui teus mistérios
 Teu povo vive a pescar  
 A tua beleza é tanta  
 Que os turistas se encantam  
-Vem e não querem mais voltar.
+Vem e não querem mais voltar.  
 
 No romper da aurora  
 Quando eu saio pra caminhar  
@@ -36,7 +36,7 @@ São coisas da força divina
 Que o homem destrói sem pena  
 Como dos nossos cajueiros  
 Acabaram pra fazer  viveiros  
-Prejudicando o ecossistema
+Prejudicando o ecossistema  
 
 <!-- pagebreak -->
 
@@ -49,7 +49,7 @@ Treme na vista da gente
 Mas nos enche de amor  
 Teu milagre, tua virtude  
 Dar fé, coragem, saúde  
-E força ao teu pescador!
+E força ao teu pescador!  
 
 Ninguém sabe direito  
 Como se deve decifrar  
@@ -60,7 +60,7 @@ A lua  com sua beleza
 Nasce com brilho de ouro  
 Em cima da terra inteira  
 Sua brisa sopra maneira  
-Em ti, Lucena, nosso tesouro.
+Em ti, Lucena, nosso tesouro.  
 
 Lucena sempre pescou  
 Com suas redes de arrasto  
@@ -71,7 +71,7 @@ A fama dos teus heróis
 Na jangada com a vara na mão  
 Enfrentando grandes perigos  
 Com lucro ou prejuízo  
-Em busca do peixe e camarão.
+Em busca do peixe e camarão.  
 
 <!-- pagebreak -->
 
@@ -84,7 +84,7 @@ Muito te prezo e venero
 Vivendo assim afastado  
 Da vaidade e do orgulho  
 Guerra, ambição e barulho  
-Do mundo mais civilizado.
+Do mundo mais civilizado.  
 
 Hoje mais evoluída  
 No trabalho, na educação  
@@ -95,7 +95,7 @@ Por isso teu destino
 Traz tua simplicidade  
 Nos dá fé e esperança  
 Para termos confiança  
-Na nossa linda cidade.
+Na nossa linda cidade.  
 
 Recordo com muito amor  
 Meu tempo de rapaz  
@@ -106,7 +106,7 @@ Com prazer e alegria
 Sem enfado do trabalho  
 Ouvir orações e benditos  
 Porque achava bonito  
-A festa do mês de maio.
+A festa do mês de maio.  
 
 <!-- pagebreak -->
 
@@ -119,7 +119,7 @@ Umas quatro velas acesas
 E as mulheres ajoelhadas no chão  
 Louvando vagarosamente  
 Todas alegres e contentes  
-Com o santo terço na mão.
+Com o santo terço na mão.  
 
 Também nossas lapinhas  
 Ainda tenho recordação  
@@ -130,7 +130,7 @@ Também dona Ivanilda
 Nunca deixou se apagar  
 Luta pela nossa tradição  
 Aquecendo seu coração  
-Preservando a cultura do lugar
+Preservando a cultura do lugar  
 
 Lucena eu estou vendo  
 Que teu novo pescador  
@@ -141,7 +141,7 @@ Era povo mais animado
 Tinha mais explosão  
 Quando acabava maio  
 Já começava os ensaios  
-Do santo mês de João.
+Do santo mês de João.  
 
 <!-- pagebreak -->
 
@@ -154,7 +154,7 @@ Com aquele seu jeito
 Só deixou recordação  
 Lembro da sua voz  calma  
 Hoje rezo pra sua alma  
-Peço pra ele a salvação
+Peço pra ele a salvação  
 
 'É belo a vida inteira  
 Viver contente e feliz  
@@ -165,7 +165,7 @@ Não abandona sua gente
 Nem nada lhe faz medo  
 Segue com suas modinhas  
 Maneiro, pau, cirandinha  
-E muitos outros briquedos.
+E muitos outros briquedos.  
 
 Hoje já velho tô vendo  
 Estou perto da morte  
@@ -176,7 +176,7 @@ Fico feliz em saber
 Tenho meu canto guardado  
 Em meu querido torrão  
 Tenho sete palmos de  chão  
-Para nele ser sepultado.
+Para nele ser sepultado.  
 
 <!-- pagebreak -->
 
@@ -189,7 +189,7 @@ Mesmo as que estão calmas
 E alcançaram a salvação  
 Fica vagando no espaço  
 Meus caracois eu faço  
-Por cima do meu torrão.
+Por cima do meu torrão.  
 
 Lucena de Américo Falcão  
 Um homem muito sincero  
@@ -200,7 +200,7 @@ Segue a mesma trilha
 Na cultura e na educação  
 Com professores capacitados  
 Ensinando o caminho da verdade  
-Para os filhos da  região.
+Para os filhos da  região.  
 
 Com a lei Paulo Gustavo  
 Nossa cultura evoluiu  
@@ -211,7 +211,7 @@ No seu querido lugar
 Mostrando seu valor  
 A secretária de cultura  
 Tem uma equipe à altura  
-Exerce a função com amor.
+Exerce a função com amor.  
 
 <!-- pagebreak -->
 
@@ -224,7 +224,7 @@ Basta terem competência
 Pra mostrarem suas artes  
 É assim que se trabalha  
 Sem rancor e sem maracutaia  
-Mostrando seu caráter.
+Mostrando seu caráter.  
 
 Os artistas de lucena  
 Têm muita inspiração  
@@ -235,7 +235,7 @@ Coco de roda e cirandinha
 É um grande celeiro  
 Também temos Verônica  
 Professora de dança  
-Poesia, é com Manoel Ribeiro.
+Poesia, é com Manoel Ribeiro.  
 
 Américo Falcão nasceu  
 Em 1980  
@@ -246,7 +246,7 @@ Faleceu em 17 de abril
 De 1942  
 Lucena, terra que mais amou  
 Aonde chorava sua dor  
-E comia camarão com arroz.
+E comia camarão com arroz.  
 
 <!-- pagebreak -->
 
@@ -259,19 +259,19 @@ De mim vai ter pena
 A punição será pequena  
 Pior castigo foi ser  
 Um pescador e morrer  
-Distante aqui de Lucena
+Distante aqui de Lucena  
 
 Sou um simples cordelista  
 Cumpri com meu papel  
 Falei da cidade e dos artistas  
-Em essa poesia de cordel
+Em essa poesia de cordel  
 
 Sou filho de Zé Ribeiro  
 Um agricultor brasileiro  
 Daquele que nunca estudou  
 Mesmo sem ter estudado  
 Fez da vida uma faculdade  
-E do mundo seu professor
+E do mundo seu professor  
 
 Quem  segue a lei de Deus  
 Nunca erra seu caminho  
@@ -282,4 +282,4 @@ Carrega sua cruz
 Do tamanho que merece  
 E tem sua recompensa  
 A cabeça quando não pensa  
-É o corpo quem padece.
+É o corpo quem padece.  
