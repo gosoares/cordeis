@@ -1,0 +1,4 @@
+baseURL = 'https://cordeis.gosoares.com/'
+languageCode = 'pt-br'
+title = 'Cordéis do Poeta Manoel Ribeiro'
+theme = 'PaperMod'
