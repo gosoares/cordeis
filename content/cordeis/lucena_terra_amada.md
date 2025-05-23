@@ -1,8 +1,8 @@
 ---
-title: "LUCENA TERRA AMADA"
+title: "Lucena Terra Amada"
 date: "2023-12-18"
 cover:
-  image: "/images/cordeis/lucena_terra_capa.png"
+  image: "/images/cordeis/lucena_terra_amada.png"
 ---
 
 Poetas universitários  
