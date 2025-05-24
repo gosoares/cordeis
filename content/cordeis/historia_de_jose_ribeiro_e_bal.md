@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/historia_de_jose_ribeiro_e_bal.png"
 ---
 
-História de José Ribeiro e Bal  
-
 Vou contar a história  
 De um trabalhador  
 Começou com 07 anos  

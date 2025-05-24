@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/coisas_que_nao_existem_mais.png"
 ---
 
-Coisas que não existem mais  
-
 Meu caro amigo leitor  
 Vou lhe escrever a verdade  
 Antes existia mais amor  

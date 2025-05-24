@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/biografia_de_paulo_gustavo.png"
 ---
 
-Biografia de Paulo Gustavo  
-
 Vou falar de um ator  
 humoriste brasileiro  
 Paulo Gustavo Amaral  

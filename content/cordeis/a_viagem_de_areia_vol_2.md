@@ -1,8 +1,8 @@
 ---
-title: "A viagem de Areia segundo volume"
+title: "A viagem de Areia - Vol. 2"
 date: "2022-09-15"
 cover:
-  image: "/images/cordeis/a_viagem_de_areia_segundo_volume.png"
+  image: "/images/cordeis/a_viagem_de_areia_vol_2.png"
 ---
 
 A melhor das viagens  

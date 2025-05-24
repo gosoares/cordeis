@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/festa_de_sao_pedro_e_sao_paulo.png"
 ---
 
-Festa de São Pedro e São Paulo  
-
 Vou contar a história  
 De 02 homens guerreiros  
 Estavam sempre com Jesus  

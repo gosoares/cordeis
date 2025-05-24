@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/ditados_popular.png"
 ---
 
-Ditados popular  
-
 Nossa mãe natureza  
 Tem muita desenvoltura  
 Os ditados popular  

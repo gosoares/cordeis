@@ -6,8 +6,6 @@ cover:
 ---
 
 Havia naquele gesto  
-
-Havia naquele gesto  
 Bem mais que dever de pai  
 Foram exemplos  certeiro  
 Que não esquecerei jamais  

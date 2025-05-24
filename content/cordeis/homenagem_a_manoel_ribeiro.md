@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/homenagem_a_manoel_ribeiro.png"
 ---
 
-Homenagem a Manoel Ribeiro  
-
 Aqui vai uma homenagem a Manoel Ribeiro  
 Um homem verdadeiro ao qual eu tiro o chapeu  
 Por sua vida exemplar de ser um grande guerreirao escrever por inteiro daria um belo cordel  

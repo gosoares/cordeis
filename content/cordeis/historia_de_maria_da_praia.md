@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/historia_de_maria_da_praia.png"
 ---
 
-História de Maria da Praia  
-
 Vou contar uma  histŕia  
 De uma pessoa querida  
 Trabalhava dia e noite  

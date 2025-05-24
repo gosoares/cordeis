@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/homenagem_a_escola_antenor_lopes_falcao.png"
 ---
 
-Homenagem à escola Antenor Lopes Falcão  
-
 Bom dia para todos  
 Vim com inspiração  
 Falar dessa escola  

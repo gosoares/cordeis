@@ -5,8 +5,6 @@ cover:
   image: "/images/cordeis/historia_da_copesbra_e_da_baleia_em_cordel.png"
 ---
 
-História da Copesbra e da baleia em cordel  
-
 Vou contar uma história  
 Que mexeu com minha vida  
 Na cidade de lucena  

@@ -1,5 +1,5 @@
 ---
-title: "Lucena Terra Amada"
+title: "Lucena terra amada"
 date: "2023-12-18"
 cover:
   image: "/images/cordeis/lucena_terra_amada.png"
