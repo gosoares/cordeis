@@ -30,7 +30,7 @@ def process_markdown(markdown_file):
     # Replace HTML pagebreak comments with LaTeX pagebreaks
     # Using \clearpage for a hard page break that forces all content before it to be typeset
     processed_content = re.sub(r"<!-- pagebreak -->", r"\n\n\\clearpage\n\n", content)
-    
+
     # Ensure stanzas are properly separated as paragraphs
     # In cordel format, empty lines separate stanzas
     # This helps pandoc process them correctly as distinct paragraphs
@@ -39,7 +39,7 @@ def process_markdown(markdown_file):
     in_yaml = False
     yaml_delimiters = 0
     result = []
-    
+
     for i, line in enumerate(lines):
         # Handle YAML frontmatter
         if line.strip() == "---":
@@ -47,11 +47,11 @@ def process_markdown(markdown_file):
             in_yaml = yaml_delimiters % 2 != 0
             result.append(line)
             continue
-        
+
         if in_yaml:
             result.append(line)
             continue
-            
+
         if line.strip():  # Non-empty line
             if not in_stanza:
                 in_stanza = True
@@ -64,7 +64,7 @@ def process_markdown(markdown_file):
             else:
                 # Additional empty line or space between sections
                 result.append("")
-    
+
     processed_content = "\n".join(result)
 
     # Write the processed content to a temporary file
@@ -75,60 +75,69 @@ def process_markdown(markdown_file):
     return temp_file
 
 
+import yaml
+
+
+def extract_cover_image_from_frontmatter(markdown_file):
+    """
+    Extrai o caminho da capa do frontmatter YAML do arquivo markdown.
+    Se cover.image começar com "/images", retorna "static/images/..."
+    """
+    with open(markdown_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    if not lines or not lines[0].strip() == "---":
+        return None
+
+    yaml_lines = []
+    for line in lines[1:]:
+        if line.strip() == "---":
+            break
+        yaml_lines.append(line)
+    try:
+        meta = yaml.safe_load("".join(yaml_lines))
+        cover_image = meta.get("cover", {}).get("image")
+        if cover_image and cover_image.startswith("/images"):
+            return f"static{cover_image}"
+        return cover_image
+    except Exception:
+        return None
+
+
 def convert_cordel_to_pdf(
-    cordel_dir, output_path=None, template_path=None, paper_size="a6", font_scale=1.0
+    markdown_path, output_path=None, template_path=None, paper_size="a6", font_scale=1.0
 ):
     """
-    Convert a cordel from markdown to PDF using pandoc with a custom template.
+    Converte um cordel de markdown para PDF usando pandoc com template customizado.
 
     Args:
-        cordel_dir: Directory containing the cordel.md and capa.png files
-        output_path: Custom output path for the PDF (optional)
-        template_path: Custom template path (optional)
-        paper_size: Paper size for the cordel (default: a6)
-        font_scale: Scale factor for the font size (default: 1.0)
+        markdown_path: Caminho do arquivo markdown
+        output_path: Caminho de saída do PDF (opcional)
+        template_path: Caminho do template LaTeX (opcional)
+        paper_size: Tamanho do papel (default: a6)
+        font_scale: Escala da fonte (default: 1.0)
     """
-    cordel_dir = Path(cordel_dir)
-
-    # Check if the directory exists
-    if not cordel_dir.exists() or not cordel_dir.is_dir():
-        print(f"Error: Directory '{cordel_dir}' does not exist or is not a directory")
+    markdown_file = Path(markdown_path)
+    if not markdown_file.exists() or not markdown_file.is_file():
+        print(f"Erro: Arquivo '{markdown_file}' não existe ou não é um arquivo")
         return False
 
-    # Find the markdown file
-    markdown_files = list(cordel_dir.glob("*.md"))
-    markdown_files = [f for f in markdown_files if not f.name.endswith("_processed.md")]
-    if not markdown_files:
-        print(f"Error: No markdown file found in '{cordel_dir}'")
-        return False
-
-    markdown_file = markdown_files[0]  # Use the first markdown file found
-
-    # Process the markdown file to handle pagebreaks
+    # Processa o markdown para pagebreaks/estrofes
     processed_markdown = process_markdown(markdown_file)
 
-    # Find the cover image
-    cover_images = (
-        list(cordel_dir.glob("*.png"))
-        + list(cordel_dir.glob("*.jpg"))
-        + list(cordel_dir.glob("*.jpeg"))
-    )
-    if not cover_images:
-        print(
-            f"Warning: No cover image found in '{cordel_dir}'. Proceeding without a cover."
-        )
+    # Extrai a capa do frontmatter
+    cover_image = extract_cover_image_from_frontmatter(markdown_file)
+    if cover_image and not Path(cover_image).exists():
+        print(f"Aviso: Capa '{cover_image}' não encontrada. Continuando sem capa.")
         cover_image = None
-    else:
-        cover_image = cover_images[0]  # Use the first image found
 
-    # Set output file path
+    # Define o caminho de saída
     if output_path:
         output_pdf = Path(output_path)
     else:
-        output_filename = cordel_dir.name
-        output_pdf = cordel_dir.parent / f"{output_filename}.pdf"
+        output_pdf = markdown_file.parent / f"{markdown_file.stem}.pdf"
 
-    # Get the template path
+    # Define o template
     if template_path:
         template_path = Path(template_path)
     else:
@@ -136,10 +145,10 @@ def convert_cordel_to_pdf(
         template_path = script_dir / "cordel-template.tex"
 
     if not template_path.exists():
-        print(f"Error: Template file '{template_path}' not found")
+        print(f"Erro: Template '{template_path}' não encontrado")
         return False
 
-    # Build the pandoc command
+    # Monta comando pandoc
     cmd = [
         "pandoc",
         "-s",
@@ -148,43 +157,28 @@ def convert_cordel_to_pdf(
         str(template_path),
         "--pdf-engine=xelatex",
     ]
-    
-    # Add cover image if available
     if cover_image:
-        cmd.append(f"--variable=cover:{cover_image}")
-    
-    # Add paper size
+        cmd.append(f"--variable=cover_image:{cover_image}")
     cmd.append(f"--variable=papersize:{paper_size}")
-    
-    # Add font scale
     cmd.append(f"--variable=fontscale:{font_scale}")
-    
-    # Add output file
     cmd.extend(["-o", str(output_pdf)])
 
-    print(f"Converting '{markdown_file}' to '{output_pdf}'...")
-    print(f"Command: {' '.join(cmd)}")
+    print(f"Convertendo '{markdown_file}' para '{output_pdf}'...")
+    print(f"Comando: {' '.join(cmd)}")
 
-    # Run pandoc
     try:
         subprocess.run(cmd, check=True, capture_output=True, text=True)
-        print("Conversion completed successfully!")
-        print(f"Output saved to: {output_pdf}")
-
-        # Clean up the temporary processed file
+        print("Conversão concluída com sucesso!")
+        print(f"PDF gerado em: {output_pdf}")
         if processed_markdown.exists():
             processed_markdown.unlink()
-
         return True
     except subprocess.CalledProcessError as e:
-        print(f"Error during conversion: {e}")
+        print(f"Erro na conversão: {e}")
         print(f"STDOUT: {e.stdout}")
         print(f"STDERR: {e.stderr}")
-
-        # Clean up the temporary processed file even on error
         if processed_markdown.exists():
             processed_markdown.unlink()
-
         return False
 
 
@@ -225,64 +219,62 @@ def check_dependencies():
 
 
 def main():
-    """Main entry point for the script"""
+    """Ponto de entrada principal do script"""
     parser = argparse.ArgumentParser(
-        description="Convert a cordel from markdown to PDF",
+        description="Converte um cordel em markdown para PDF (usando frontmatter para capa)",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
 
-    # Add a check-only argument that doesn't require cordel_dir
-    check_only_parser = parser.add_argument_group("check dependencies only")
+    check_only_parser = parser.add_argument_group("apenas checar dependências")
     check_only_parser.add_argument(
         "--check",
         action="store_true",
-        help="Check dependencies and exit without conversion",
+        help="Checa dependências e sai sem converter",
     )
 
-    # Main arguments
     parser.add_argument(
-        "cordel_dir",
+        "markdown_file",
         nargs="?",
-        help="Directory containing cordel.md and cover image files",
+        help="Caminho do arquivo markdown do cordel",
     )
-    parser.add_argument("-o", "--output", help="Output PDF file path")
-    parser.add_argument("-t", "--template", help="Path to custom LaTeX template")
+    parser.add_argument("-o", "--output", help="Caminho de saída do PDF")
+    parser.add_argument(
+        "-t", "--template", help="Caminho para template LaTeX customizado"
+    )
     parser.add_argument(
         "-p",
         "--paper-size",
         default="a6",
         choices=["a6", "a5", "a4", "letter"],
-        help="Paper size for the cordel",
+        help="Tamanho do papel para o cordel",
     )
     parser.add_argument(
         "-s",
         "--font-scale",
         type=float,
         default=0.95,
-        help="Scale factor for font size (e.g., 0.9 for smaller text)",
+        help="Fator de escala da fonte (ex: 0.9 para texto menor)",
     )
 
     args = parser.parse_args()
 
-    # Check dependencies only
     if args.check:
         return 0 if check_dependencies() else 1
 
-    # Make sure we have a cordel_dir for conversion
-    if not args.cordel_dir:
-        parser.error("cordel_dir is required for conversion")
+    if not args.markdown_file:
+        parser.error(
+            "É necessário informar o caminho do arquivo markdown para conversão."
+        )
 
-    # Check dependencies before conversion
     if not check_dependencies():
         return 1
 
-    # Convert the cordel
     success = convert_cordel_to_pdf(
-        args.cordel_dir,
+        args.markdown_file,
         output_path=args.output,
         template_path=args.template,
         paper_size=args.paper_size,
-        font_scale=args.font_scale
+        font_scale=args.font_scale,
     )
 
     return 0 if success else 1

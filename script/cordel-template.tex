@@ -83,15 +83,25 @@ $endif$
 \clubpenalty=10000
 \raggedbottom % Better control over page breaks
 
-% No need for title formatting commands, we'll handle it directly
-% in the template using variables
 
 % Beginning of document
 \begin{document}
 
 % Cover page
 \thispagestyle{empty}
-\includepdf[pages=1, noautoscale=true, width=\paperwidth, height=\paperheight]{$cover$}
+$if(cover_image)$
+  \includepdf[pages=1, noautoscale=true, width=\paperwidth, height=\paperheight]{$cover_image$}
+$else$
+  \vspace*{\fill}
+  \begin{center}
+    {\Huge \textbf{$title$}}\\[1.5cm]
+    {\Large \textbf{Manoel Ribeiro}}
+    \vspace{1cm}
+    \cordelornament
+  \end{center}
+  \vspace*{\fill}
+  \clearpage
+$endif$
 
 % Start the cordel content with proper page numbering
 \pagestyle{cordel}
