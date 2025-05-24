@@ -2,8 +2,6 @@
 FROM ghcr.io/hugomods/hugo:latest AS builder
 WORKDIR /src
 COPY . .
-RUN hugo mod tidy
-RUN hugo mod get -u
 ARG HUGO_BASEURL=http://localhost:8080/
 RUN hugo --minify --baseURL "$HUGO_BASEURL"
 
