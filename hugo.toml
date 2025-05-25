@@ -17,7 +17,7 @@ author = "Poeta Manoel Ribeiro"
 
 [params.homeInfoParams]
 Title = "![Poeta Manoel Ribeiro](/profile/poeta_manoel.png)"
-Content = "Bem-vindo ao acervo de Cordéis do Poeta Manoel Ribeiro."
+# Content = "Bem-vindo ao acervo de Cordéis do Poeta Manoel Ribeiro."
 [[params.socialIcons]]
 name = "instagram"
 url = "https://instagram.com/poetamanoeldocordelpb"
