@@ -6,7 +6,7 @@ WORKDIR /src
 COPY script/booklet.sh script/booklet-template.tex ./script/
 COPY content/cordeis ./content/cordeis
 
-RUN sh script/booklet.sh
+RUN bash script/booklet.sh
 
 # Stage 2: Hugo build
 FROM ghcr.io/hugomods/hugo:latest AS builder
