@@ -1,12 +1,12 @@
 # Stage 1: Booklet builder with prebuilt dependencies
-FROM pandoc/latex:latest AS booklet
+FROM pandoc/latex:latest-ubuntu AS booklet
 WORKDIR /src
 
 # Copy only scripts and templates first for better caching
-COPY script/booklet.sh script/booklet-template.tex script/cordel-template.tex ./script/
+COPY script/booklet.sh script/booklet-template.tex ./script/
 COPY content/cordeis ./content/cordeis
 
-RUN bash script/booklet.sh
+RUN sh script/booklet.sh
 
 # Stage 2: Hugo build
 FROM ghcr.io/hugomods/hugo:latest AS builder
