@@ -2,3 +2,12 @@ baseURL = 'https://cordeis.gosoares.com/'
 languageCode = 'pt-br'
 title = 'Cordéis do Poeta Manoel Ribeiro'
 theme = 'PaperMod'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+identifier = "search"
+name = "Buscar"
+url = "/search/"      # Default URL for search page
+weight = 10
