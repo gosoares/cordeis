@@ -6,8 +6,30 @@ theme = 'PaperMod'
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+[params]
+search = true                                                           # Re-adding this as it was in the plan for search
+ShowShareButtons = true
+ShowPostNavLinks = true
+enableRobotsTXT = true
+description = "Acervo de Cordéis do Poeta Manoel Ribeiro"
+keywords = ["cordel", "poesia", "literatura popular", "Manoel Ribeiro"]
+author = "Poeta Manoel Ribeiro"
+
+[params.homeInfoParams]
+Title = "Olá! 👋"
+Content = "Bem-vindo ao acervo de Cordéis do Poeta Manoel Ribeiro."
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/poetamanoeldocordelpb"
+
 [[menu.main]]
 identifier = "search"
 name = "Buscar"
-url = "/search/"      # Default URL for search page
+url = "/search/"
 weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "Acervo"
+url = "/archives/"
+weight = 20
