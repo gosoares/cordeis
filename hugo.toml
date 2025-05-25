@@ -21,7 +21,12 @@ Title = "![Poeta Manoel Ribeiro](/profile/poeta_manoel.png)"
 [[params.socialIcons]]
 name = "instagram"
 url = "https://instagram.com/poetamanoeldocordelpb"
-
+[[params.socialIcons]]
+name = "whatsapp"
+url = "https://wa.me/5583999172122"
+[[params.socialIcons]]
+name = "phone"
+url = "tel:+5583999172122"
 [[menu.main]]
 identifier = "search"
 name = "Buscar"
