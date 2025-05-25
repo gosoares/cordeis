@@ -16,7 +16,7 @@ keywords = ["cordel", "poesia", "literatura popular", "Manoel Ribeiro"]
 author = "Poeta Manoel Ribeiro"
 
 [params.homeInfoParams]
-Title = "Olá! 👋"
+Title = "![Poeta Manoel Ribeiro](/profile/poeta_manoel.png)"
 Content = "Bem-vindo ao acervo de Cordéis do Poeta Manoel Ribeiro."
 [[params.socialIcons]]
 name = "instagram"
