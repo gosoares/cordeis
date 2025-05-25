@@ -1,6 +1,6 @@
 ---
 title: "Eleitor abestalhado"
-date: "2025-05-25"
+date: "2018-10-25"
 ---
 
 Neste tempo eleitoral  

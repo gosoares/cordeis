@@ -1,6 +1,6 @@
 ---
-title: "A história de Lucena em cordel"
-date: "2025-05-25"
+title: "A história de Lucena"
+date: "2024-03-28"
 ---
 
 Lucena é muito querida  

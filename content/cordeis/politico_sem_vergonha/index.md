@@ -1,6 +1,6 @@
 ---
 title: "Político sem vergonha"
-date: "2025-05-25"
+date: "2018-04-10"
 ---
 
 O povo tem medo da zica  

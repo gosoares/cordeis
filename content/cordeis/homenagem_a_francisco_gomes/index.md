@@ -1,6 +1,6 @@
 ---
 title: "Homenagem a Francisco Gomes"
-date: "2025-05-25"
+date: "2024-01-18"
 ---
 
 Queria ser um poeta  

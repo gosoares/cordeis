@@ -1,6 +1,6 @@
 ---
 title: "Poema de São João"
-date: "2025-05-25"
+date: "2024-06-21"
 ---
 
 Hoje meu dilema  
