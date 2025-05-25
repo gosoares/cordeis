@@ -12,15 +12,10 @@ $endif$
 \usepackage{microtype} % Optimizes text fitting
 \usepackage{graphicx}
 \usepackage[paperwidth=105mm, paperheight=148mm, margin=8mm, marginparsep=0mm, marginparwidth=0mm, footskip=8mm]{geometry} % Reduced margins for more content, footskip adjusted for page number positioning
-\usepackage{lettrine}
 \usepackage{fancyhdr}
-\usepackage{titlesec}
-\usepackage{pdfpages}
 \usepackage{etoolbox}
 \usepackage{setspace}
 \usepackage{xcolor}
-\usepackage{zref-abspage}
-\usepackage{needspace}
 \usepackage{parskip}
 
 % Define cordel typography style
@@ -33,13 +28,6 @@ $endif$
 \raggedright % Traditional cordel uses ragged right alignment
 \hyphenpenalty=5000 % Reduce hyphenation
 \tolerance=1000
-
-% Fancy chapter style
-\titleformat{\chapter}[display]
-  {\normalfont\bfseries\filcenter}
-  {}
-  {0pt}
-  {}
 
 \fancypagestyle{cordel}{
   \fancyhf{}
@@ -87,10 +75,13 @@ $endif$
 % Beginning of document
 \begin{document}
 
-% Cover page
+% Cover page with no margins
 \thispagestyle{empty}
-$if(cover_image)$
-  \includepdf[pages=1, noautoscale=true, width=\paperwidth, height=\paperheight]{$cover_image$}
+$if(cover)$
+  \newgeometry{margin=0pt}
+  \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio=false]{content/$cordel_dir$/$cover.image$}
+  \clearpage
+  \restoregeometry
 $else$
   \vspace*{\fill}
   \begin{center}

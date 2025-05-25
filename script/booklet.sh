@@ -60,7 +60,7 @@ for dir in content/cordeis/*; do
           next
         }
         if (in_yaml) { print; next }
-        gsub(/<!-- pagebreak -->/, "\n\n\\\\clearpage\n\n")
+        gsub(/<!-- pagebreak -->/, "\n\n\\clearpage\n\n")
         if (NF) {
           if (!in_stanza) in_stanza=1
           print
@@ -71,10 +71,14 @@ for dir in content/cordeis/*; do
       }
     ' "$md" > "$tmp_md"
 
+    # Get directory path relative to content folder
+    dir_path=${dir#content/}
+    
     out="static/livretos/${name}.pdf"
     echo "Generating $out ..."
-    pandoc -s "$tmp_md" --template="$TEMPLATE" --pdf-engine=xelatex \
-      --variable=papersize:"$PAPER_SIZE" --variable=fontscale:"$FONT_SCALE" -o "$out"
+    pandoc -s "$tmp_md" --from markdown+raw_tex --template="$TEMPLATE" --pdf-engine=xelatex \
+      --variable=papersize:"$PAPER_SIZE" --variable=fontscale:"$FONT_SCALE" \
+      --variable=cordel_dir:"$dir_path" -o "$out"
     rm "$tmp_md"
   fi
 done
