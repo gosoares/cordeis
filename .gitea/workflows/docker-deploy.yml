@@ -37,10 +37,10 @@ jobs:
           platforms: linux/arm64/v8
           provenance: false
 
-      # - name: Redeploy portainer stack
-      #   uses: https://git.gosoares.com/gosoares/portainer-redeploy-action@main
-      #   with:
-      #     endpoint: ${{ vars.PORTAINER_ENDPOINT }}
-      #     api_key: ${{ secrets.PORTAINER_API_KEY }}
-      #     stack: cordeis
-      #     environment: vps
+      - name: Redeploy portainer stack
+        uses: https://git.gosoares.com/gosoares/portainer-redeploy-action@main
+        with:
+          endpoint: ${{ vars.PORTAINER_ENDPOINT }}
+          api_key: ${{ secrets.PORTAINER_API_KEY }}
+          stack: cordeis
+          environment: vps
