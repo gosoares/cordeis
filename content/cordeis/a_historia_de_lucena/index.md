@@ -1,6 +1,8 @@
 ---
 title: "A história de Lucena"
 date: "2024-03-28"
+cover:
+  image: "cover.png"
 ---
 
 Lucena é muito querida  

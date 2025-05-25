@@ -1,6 +1,8 @@
 ---
 title: "Homenagem a Francisco Gomes"
 date: "2024-01-18"
+cover:
+  image: "cover.png"
 ---
 
 Queria ser um poeta  
@@ -19,7 +21,7 @@ De uma pessoa bacana
 Nasceu numa fazenda  
 Vivia do cultivo da cana  
 Seus pais ganhavam pouco  
-Pssavam grande sufoco  
+Passavam grande sufoco  
 Comiam farinha com banana  
 
 Nasceu em 09 de fevereiro  

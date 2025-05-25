@@ -1,6 +1,8 @@
 ---
 title: "Ditados popular"
 date: "2020-02-20"
+cover:
+  image: "cover.png"
 ---
 
 Nossa mãe natureza  

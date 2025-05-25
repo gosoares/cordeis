@@ -1,6 +1,8 @@
 ---
 title: "O nosso corpo humano"
 date: "2024-03-26"
+cover:
+  image: "cover.png"
 ---
 
 Vou falar do corpo humano  

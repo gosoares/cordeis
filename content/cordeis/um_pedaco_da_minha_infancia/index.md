@@ -1,6 +1,8 @@
 ---
 title: "Um pedaço da minha infância"
 date: "2024-02-22"
+cover:
+  image: "cover.png"
 ---
 
 No tempo da minha infância  

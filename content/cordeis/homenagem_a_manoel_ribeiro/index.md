@@ -1,11 +1,13 @@
 ---
 title: "Homenagem a Manoel Ribeiro"
 date: "2023-11-01"
+cover:
+  image: "cover.png"
 ---
 
 Aqui vai uma homenagem a Manoel Ribeiro  
-Um homem verdadeiro ao qual eu tiro o chapeu  
-Por sua vida exemplar de ser um grande guerreirao escrever por inteiro daria um belo cordel  
+Um homem verdadeiro ao qual eu tiro o chapéu  
+Por sua vida exemplar de ser um grande guerreiro escrever por inteiro daria um belo cordel  
 
 Ao longo da sua vida há mais espinho que flor  
 Porque desde criança enfrentou muita dor  
@@ -15,7 +17,7 @@ Porque transformou em lírio aquilo que lhe tocou
 Fez várias mudanças do lugar onde morava  
 Com seus pais na lembrança viveu a trabalhar  
 Essa realidade presente desde a infância  
-Fez que mesmo sendo criança não podesse brincar  
+Fez que mesmo sendo criança não pudesse brincar  
 
 Tem a vida marcada por se dispor a aprender  
 Em qualquer canto que chega o seu destino é crescer  

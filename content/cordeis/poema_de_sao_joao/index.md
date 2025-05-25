@@ -1,6 +1,8 @@
 ---
 title: "Poema de São João"
 date: "2024-06-21"
+cover:
+  image: "cover.png"
 ---
 
 Hoje meu dilema  

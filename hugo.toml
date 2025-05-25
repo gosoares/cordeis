@@ -7,7 +7,7 @@ theme = 'PaperMod'
 home = ["HTML", "RSS", "JSON"]
 
 [params]
-search = true                                                           # Re-adding this as it was in the plan for search
+search = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 enableRobotsTXT = true
