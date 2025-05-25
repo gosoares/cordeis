@@ -1,8 +1,6 @@
 ---
 title: "Lucena cidade maravilhosa"
 date: "2022-09-10"
-cover:
-  image: "cover.png"
 ---
 
 Boa tarde para todos  

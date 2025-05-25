@@ -1,8 +1,6 @@
 ---
 title: "Festa de São Pedro e São Paulo"
 date: "2023-06-28"
-cover:
-  image: "cover.png"
 ---
 
 Vou contar a história  

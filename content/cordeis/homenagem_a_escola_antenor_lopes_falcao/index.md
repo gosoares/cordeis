@@ -1,8 +1,6 @@
 ---
 title: "Homenagem à escola Antenor Lopes Falcão"
 date: "2022-12-08"
-cover:
-  image: "cover.png"
 ---
 
 Bom dia para todos  

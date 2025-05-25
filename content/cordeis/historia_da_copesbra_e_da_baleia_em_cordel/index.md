@@ -1,8 +1,6 @@
 ---
 title: "História da Copesbra e da baleia em cordel"
 date: "2014-10-20"
-cover:
-  image: "cover.png"
 ---
 
 Vou contar uma história  

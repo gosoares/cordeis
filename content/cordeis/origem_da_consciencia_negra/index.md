@@ -1,8 +1,6 @@
 ---
 title: "Origem da consciência negra"
 date: "2022-11-09"
-cover:
-  image: "cover.png"
 ---
 
 Origem da conciência negra  

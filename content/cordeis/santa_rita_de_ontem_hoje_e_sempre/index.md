@@ -1,8 +1,6 @@
 ---
 title: "Santa Rita de ontem hoje e sempre"
 date: "2020-10-25"
-cover:
-  image: "cover.png"
 ---
 
 Santa Rita de ontem  

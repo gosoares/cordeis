@@ -1,8 +1,6 @@
 ---
 title: "Os pássaros são livres pra voar"
 date: "2022-08-17"
-cover:
-  image: "cover.png"
 ---
 
 Quando eu era criança  

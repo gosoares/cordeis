@@ -1,8 +1,6 @@
 ---
 title: "Homenagem a Manoel Ribeiro"
 date: "2023-11-01"
-cover:
-  image: "cover.png"
 ---
 
 Aqui vai uma homenagem a Manoel Ribeiro  

@@ -1,8 +1,6 @@
 ---
 title: "Havia naquele gesto"
 date: "2020-05-10"
-cover:
-  image: "cover.png"
 ---
 
 Havia naquele gesto  

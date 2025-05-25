@@ -1,8 +1,6 @@
 ---
 title: "Minha ida pra Santana"
 date: "2015-12-15"
-cover:
-  image: "cover.png"
 ---
 
 Vou contar uma história  

@@ -1,8 +1,6 @@
 ---
 title: "História de Maria da Praia"
 date: "2015-09-04"
-cover:
-  image: "cover.png"
 ---
 
 Vou contar uma  histŕia  

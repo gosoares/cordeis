@@ -1,8 +1,6 @@
 ---
 title: "Está chegando o Natal"
 date: "2022-12-08"
-cover:
-  image: "cover.png"
 ---
 
 Queria ser um poeta  

@@ -1,8 +1,6 @@
 ---
 title: "Lucena terra querida"
 date: "2019-07-15"
-cover:
-  image: "cover.png"
 ---
 
 Lucena alguém te amou  
