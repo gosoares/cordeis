@@ -33,7 +33,7 @@ Era usado em festival
 Os índios e os escravos  
 Faziam seu carnaval.  
 
-<!-- pagebreak -->
+---
 
 Hoje o povo de Lucena  
 Abraçaram o carimbó  
@@ -63,7 +63,7 @@ Também dança lapinha
 E é uma bela educadora  
 Ama muito as criancinhas.  
 
-<!-- pagebreak -->
+---
 
 A sorridente Marizene  
 Gosta muito de dançar  
@@ -93,7 +93,7 @@ Parecem duas criança
 Todoas cheia de energia  
 Pra remexer a poupança.  
 
-<!-- pagebreak -->
+---
 
 Betânia de Margarida  
 Também veio pra dançar  

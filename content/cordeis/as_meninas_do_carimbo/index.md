@@ -33,7 +33,7 @@ Pra começar a ladainha
 Junto com a dançarina  
 Nossa atleta Cleidinha.  
 
-<!-- pagebreak -->
+---
 
 Entra Lourdes de Zuca  
 E Lúcia a esposa de Paulo  
@@ -63,7 +63,7 @@ Já está se rebolando
 Junto com Toinha de Caroço  
 Já podem vir entrando.  
 
-<!-- pagebreak -->
+---
 
 Entra Ninha de Fagundes  
 E Jane filha de Zuca  
@@ -93,7 +93,7 @@ E roda em cima do pé
 Filha de Carlos Mendonça  
 E de dona Maria José.  
 
-<!-- pagebreak -->
+---
 
 Meus caros ouvintes  
 Não gardem ódio nem rancor  

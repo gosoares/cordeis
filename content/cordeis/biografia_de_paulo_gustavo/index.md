@@ -33,7 +33,7 @@ Foi muito bom no teatro
 Apresentou dona Hermínia  
 Se tornando o maior barato.  
 
-<!-- pagebreak -->
+---
 
 Também neste período  
 Fez apresentações na TV  
@@ -63,7 +63,7 @@ Causando grande impacto
 Junto com alguns amigos  
 Venceram todo obstáculo  
 
-<!-- pagebreak -->
+---
 
 Além de Dona Hermínia  
 E Minha Mãe é Um Peça  
@@ -93,7 +93,7 @@ Eram 120 freguêses
 Que atuavam nas suas gravações  
 A todos ajudou muitas vezes.  
 
-<!-- pagebreak -->
+---
 
 Também doou 1,5 milhão  
 Para o centro de tratamento  
@@ -123,7 +123,7 @@ Outro homem de grande valor
 De nome General Barbosa César  
 E o nome de Paulo Gustavo botou.  
 
-<!-- pagebreak -->
+---
 
 Ainda em maio de 2021  
 O Senado começou a debater  
@@ -150,7 +150,7 @@ Que foram incompetentes
 Pra salvar nossa gente  
 Vacinas não foram bastantes.  
 
-<!-- pagebreak -->
+---
 
 Quem segue a lei de Deus  
 Nunca erra seu caminho  

@@ -28,7 +28,7 @@ Tiveram tamanha destreza
 Fizeram do 20 de novembro  
 Tornar-se o dia da Consciência Negra  
 
-<!-- pagebreak -->
+---
 
 Foi uma forma encontrada  
 Pela população negra  
@@ -58,7 +58,7 @@ Do seu povo escravo
 Por isso que para sempre  
 Seu nome será lembrado.  
 
-<!-- pagebreak -->
+---
 
 Aspectos muito valorizados  
 Na cultura brasileira  
@@ -86,7 +86,7 @@ Analisem por gentileza
 O dia da Conciência Negra  
 Merece muito mais respeito.  
 
-<!-- pagebreak -->
+---
 
 Trabalharam na mineração  
 No café, na cana de açucar  
@@ -121,7 +121,7 @@ Sem roupa e sem salário
 Foi no quilombo dos palmares  
 Que a seus amigos refugiou.  
 
-<!-- pagebreak -->
+---
 
 Ele morreu no combate  
 Para defender seu povo  
@@ -156,7 +156,7 @@ Peço que tenham gentileza
 Abracemos a raça negra  
 Pois ela merece respeito.  
 
-<!-- pagebreak -->
+---
 
 Dizem que a princesa Isabel  
 Foi quem libertou os escravos  

@@ -44,7 +44,7 @@ Em homenagem verdadeira
 Zacarias fez uma fogueira  
 De longe se via o clarão  
 
-<!-- pagebreak -->
+---
 
 São João, São Joãozinho  
 Tanto amor e carinho  
@@ -78,7 +78,7 @@ Não tem capacidade
 De atirar com liberdade  
 Nesta fogueira do amor.  
 
-<!-- pagebreak -->
+---
 
 Meu senhor São João  
 Santo do meu coração  
@@ -112,7 +112,7 @@ Três caboclos emparelhados
 Com bacamartes armados  
 Pei, pei, viva são João.  
 
-<!-- pagebreak -->
+---
 
 A onde tem sarapaté  
 Canjica, traque e busca-pé  

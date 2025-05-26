@@ -31,7 +31,7 @@ E soltei o meu bichinho
 Ele adorou a liberdade  
 Mas ficou bem pertinho.  
 
-<!-- pagebreak -->
+---
 
 Eu disse querido xexéu  
 Você está livre pra voar  
@@ -61,7 +61,7 @@ Gaiola não era seu lugar
 Se juntava com os amigos  
 Eles são livres pra voarem.  
 
-<!-- pagebreak -->
+---
 
 Todo dia ele me dizia  
 Vou mas volto Manoel  
@@ -91,7 +91,7 @@ Tenham um bom coração
 Pergunto se vocês gostariam  
 De viverem em uma prisão.  
 
-<!-- pagebreak -->
+---
 
 Deixe meu xexéu livre  
 Não botem para brigar  

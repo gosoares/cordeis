@@ -31,7 +31,7 @@ Não tinha necessidade
 Remar contra a maré  
 Não era minha vontade  
 
-<!-- pagebreak -->
+---
 
 Eu falei pra ele  
 Pai deixe a maré vazar  
@@ -61,7 +61,7 @@ A tendência era nos levar
 Pra cima das pedras  
 Aonde tem o quebra-mar.  
 
-<!-- pagebreak -->
+---
 
 Sempre tive muita fé  
 Em N. Sra. da Guia  
@@ -99,7 +99,7 @@ Vem assistir as missas
 De Cabedelo, João Pessoa  
 Rio Tinto, Sapé e Santa Rita...  
 
-<!-- pagebreak -->
+---
 
 Tem missas nos domingos  
 E nas quintas também  
@@ -129,7 +129,7 @@ Os padroeiros de Costinha
 Nossa Senhora da conceição  
 É padroeira da Pontinha.  
 
-<!-- pagebreak -->
+---
 
 São José é de Fagundes  
 Em Gameleira S Antônio  
@@ -160,7 +160,7 @@ No aniversário do santo
 Frei Rômulo, comanda  
 Sem nenhum desespero  
 
-<!-- pagebreak -->
+---
 
 Chegando em Lucena  
 Não deixe de conhecer  
@@ -190,7 +190,7 @@ Frei Rômulo foi atuante
 Passou pouco tempo  
 Mas fez coisas brilhante.ms.  
 
-<!-- pagebreak -->
+---
 
 Quero falar de Frei Luiz  
 Um homem organizado  
@@ -220,7 +220,7 @@ Por ele vinha inteceder
 Para ele ter a força  
 E os problemas resolver.  
 
-<!-- pagebreak -->
+---
 
 Nossa Senhora da Guia  
 Uma mãe cheia de glória  

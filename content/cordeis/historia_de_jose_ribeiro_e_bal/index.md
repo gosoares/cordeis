@@ -31,7 +31,7 @@ Lhe dava uma pancada
 O pau para exemplar  
 Era o cabo da enxada.  
 
-<!-- pagebreak -->
+---
 
 Uma irmã chamada Rita  
 Era queridinha da casa  
@@ -61,7 +61,7 @@ Sabia meu sofrimento
 Quem não gostou foi o pai  
 Daquele acontecimento.  
 
-<!-- pagebreak -->
+---
 
 Essa pessoa que falo  
 Seu nome, José Ribeiro  
@@ -91,7 +91,7 @@ Voltou para os  irmãos
 E disse para seus tios  
 Já lavei minhas mãos.  
 
-<!-- pagebreak -->
+---
 
 Depois deste acontecido  
 Ele ficou bem à vontade  
@@ -121,7 +121,7 @@ Moça de um bom estilo
 Construiram uma família  
 Com educação e brilho.  
 
-<!-- pagebreak -->
+---
 
 Tiveram 06 filhos  
 Maria José e Sebastião  
@@ -151,7 +151,7 @@ Honesta trabalhadeira
 Carregava água na cabeça  
 Descendo, sobindo ladeira.  
 
-<!-- pagebreak -->
+---
 
 Nos recebia em sua casa  
 Muito feliz e contente  
@@ -181,7 +181,7 @@ Na terra da cana cuba
 Teve muito trabalho  
 Quem trabalha Deus ajuda.  
 
-<!-- pagebreak -->
+---
 
 Passou a apontador  
 Sem ter estudado  
@@ -211,7 +211,7 @@ E seus filhos ao lado
 Cheio de netos e bisnetos  
 Por ele muito amado.  
 
-<!-- pagebreak -->
+---
 
 Seus pais, José Ribeiro  
 E Maria Cardoso de Oliveira  

@@ -33,7 +33,7 @@ Pra não ficarem soltos
 Um deles é a cabeça  
 Fica em cima do pescoço  
 
-<!-- pagebreak -->
+---
 
 O sistema respiratório  
 Boca, faringe e e pulmôes  
@@ -70,7 +70,7 @@ O processo de devolução
 Funciona com o sangue  
 Bombeado pelo coração.  
 
-<!-- pagebreak -->
+---
 
 Quero falar do cérebro  
 O centro da inteligência  
@@ -100,7 +100,7 @@ Só quer lhe ver sossegado
 Cuidar logo enquanto é cedo  
 Pra não lhe ver atormentado  
 
-<!-- pagebreak -->
+---
 
 Também apresento a bile  
 Falo da sua função  
@@ -130,7 +130,7 @@ E manter o corpo da gente
 Com átrios e ventrículos  
 O coração segue em frente.  
 
-<!-- pagebreak -->
+---
 
 Também falo dos ouvidos  
 De onde vem a audição  
@@ -160,7 +160,7 @@ Ajuda no processamento
 Mandando pra o intestino  
 O bolo dos alimentos.  
 
-<!-- pagebreak -->
+---
 
 Os vasos sanguíneos  
 Conduzem sangue arterial  

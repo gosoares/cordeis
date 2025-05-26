@@ -31,7 +31,7 @@ Com as professoras
 Aproveitando bem  
 A coordenação motora.  
 
-<!-- pagebreak -->
+---
 
 São pessoas guerreiras  
 Luta com muita atenção  
@@ -68,7 +68,7 @@ Filha do  amigo João
 Sempre muito guerreira  
 Conhecida na região.  
 
-<!-- pagebreak -->
+---
 
 Vocês são  Heroínas  
 Enfrentam uma pedreira  
@@ -105,7 +105,7 @@ Quando peguei o papel
 Só veio na minha mente  
 Os nomes Sara e Manoel  
 
-<!-- pagebreak -->
+---
 
 Mas eu peço pra vocês  
 Um mundo de felicidade  
@@ -135,7 +135,7 @@ Dizer com perseverança
 Melhor coisa é estudar  
 Pra viver com  esperança.  
 
-<!-- pagebreak -->
+---
 
 Vim conhecer essa escola  
 Por Andreia  convidado  
@@ -165,7 +165,7 @@ Lutando vem a glória
 Andreia, Carla e Cristina  
 Compretam essa história.  
 
-<!-- pagebreak -->
+---
 
 Também quero agradecer  
 As merendeiras e porteiros  

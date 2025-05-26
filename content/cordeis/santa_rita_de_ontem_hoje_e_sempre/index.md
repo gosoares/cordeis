@@ -32,7 +32,7 @@ Busca o melhor pra escola
 Com muito amor controla  
 Só sai no toque da sirene  
 
-<!-- pagebreak -->
+---
 
 Nossa diretora Claudiana  
 Pessoa muito esforçada  
@@ -63,7 +63,7 @@ Um nome de qualidade
 Casado com Dona Ivone  
 Filha da mesma cidade.  
 
-<!-- pagebreak -->
+---
 
 Santa Rita de seu Odon  
 Da linda rua São João  
@@ -93,7 +93,7 @@ Curava até enxaqueca
 Era igual a um doutor  
 Tinha memória fresca.  
 
-<!-- pagebreak -->
+---
 
 Conheceu João Gerimias  
 Falava de Egídio Madruga  
@@ -123,7 +123,7 @@ Trabalhador e hospitaleiro
 Construiu casas populares  
 Pra o povo de pouco dinheiro.  
 
-<!-- pagebreak -->
+---
 
 Lembrou Raimundo Furtado  
 Por ser um bom dentista  
@@ -153,7 +153,7 @@ Era Flaviano Irmão dele
 E o da Usina São João  
 Dr Renato era herdeiro,  
 
-<!-- pagebreak -->
+---
 
 Falava de Francisquinha  
 Antônio da perfumaria  
@@ -183,7 +183,7 @@ Deixaram seu povo na dor
 Viajaram pra comprar baleia  
 No caminho o carro virou  
 
-<!-- pagebreak -->
+---
 
 lembro Severino Cavalcante  
 Era o cara da charque  
@@ -213,7 +213,7 @@ Quando a usina moía cana
 Não tirava nem folgas  
 Nos finais de semanas  
 
-<!-- pagebreak -->
+---
 
 Lembro de Zé Anorato  
 Que cuidava do açucar  
@@ -247,7 +247,7 @@ Arrumou uma confusão
 Brigou com meu irmão  
 Saiu de  cabeça lascada.  
 
-<!-- pagebreak -->
+---
 
 Foi logo pra Santa Rita  
 Falou com Capitão Panta  

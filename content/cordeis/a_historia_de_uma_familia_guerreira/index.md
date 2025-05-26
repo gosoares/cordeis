@@ -33,7 +33,7 @@ Uma terra boa e bonita
 Dar tudo que se planta  
 Sempre foi muito rica.  
 
-<!-- pagebreak -->
+---
 
 Ele do  mesmo lugar  
 Filho da mesma terra  
@@ -63,7 +63,7 @@ Precisavam trabalhar
 Na função de motorista  
 Estão em primeiro lugar.  
 
-<!-- pagebreak -->
+---
 
 Um dia João Hélio  
 Pensou na felicidade  
@@ -93,7 +93,7 @@ Aonde foi se empregar
 Depois levou a família  
 Para a saudade matar.  
 
-<!-- pagebreak -->
+---
 
 Disse para família  
 Temos que  trabalhar  
@@ -123,7 +123,7 @@ Porém, essa  alugada
 Todo final de semana  
 Juntos comemoravam  
 
-<!-- pagebreak -->
+---
 
 Além dos seus salários  
 Recebiam cexta básica  
@@ -153,7 +153,7 @@ Nayara, foi a bola da vez
 Hoje a família aumentou  
 Pra completar o xadrez  
 
-<!-- pagebreak -->
+---
 
 Nasceu Maria Eduarda  
 Já completou 13 anos  
@@ -183,7 +183,7 @@ Pra melhorar suas vidas
 Envestiram  tudo no gás  
 Foi uma ação negativa.  
 
-<!-- pagebreak -->
+---
 
 Tudo que eles  ganhava  
 Só dava pra pagar conta  
@@ -213,7 +213,7 @@ Com a chegada da pandemia
 Precisam de orações  
 Pra seguirem suas  trilhas.  
 
-<!-- pagebreak -->
+---
 
 Joélio e Joênio  
 Já vivem estressados  
@@ -243,7 +243,7 @@ Pra dar conta da casa
 Dorme de 11 da noite  
 e acorda de madrugada.  
 
-<!-- pagebreak -->
+---
 
 Desde que era criança  
 Não teve felicidade  
@@ -273,7 +273,7 @@ Não ver  nada dar certo
 Mas agradessem a Deus  
 Por os filhos estarem perto  
 
-<!-- pagebreak -->
+---
 
 Há desentendimentos  
 Mas tem compreenção  
@@ -303,7 +303,7 @@ Só dar pra comprar alho
 Não  valeu tantos esforços  
 E as mãos cheias de calos,  
 
-<!-- pagebreak -->
+---
 
 A vida é mesmo assim  
 Cheia de altos e baixos  
@@ -333,7 +333,7 @@ Ele pode  te ajudar
 Basta nele  ter fé  
 Sua hora vai chegar  
 
-<!-- pagebreak -->
+---
 
 Vou ensinar um remédio  
 Acho que tem  solução  

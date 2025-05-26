@@ -36,7 +36,7 @@ Correndo como louco
 Quem cagueta os outros  
 É pobre de espírito e coração.  
 
-<!-- pagebreak -->
+---
 
 Conheci uma pessoa  
 Que sua casa era farta  
@@ -71,7 +71,7 @@ Não siga no caminho torto
 Quem enrica com o suor de outro  
 É pobre de espírito e coração.  
 
-<!-- pagebreak -->
+---
 
 Há quem só saiba mandar  
 Não aceita ser mandado  
@@ -106,7 +106,7 @@ Vai cair no fundo do poço
 Quem cresce traindo o outro  
 É pobre de sepírito e coração.  
 
-<!-- pagebreak -->
+---
 
 Jesus não gosta de traidor  
 Que traz em busca de poder  

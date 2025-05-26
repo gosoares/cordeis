@@ -33,7 +33,7 @@ Todos de bom coração
 Pescava todos os dias  
 Isso era sua missão  
 
-<!-- pagebreak -->
+---
 
 Um dia ao irem pescar  
 Saindo cedo de casa  
@@ -63,7 +63,7 @@ Marinheiro e pescador
 Todos na nossa cidade  
 Reconhecem seu valor.  
 
-<!-- pagebreak -->
+---
 
 Também outro apóstolo  
 De nome São Paulo  
@@ -93,7 +93,7 @@ Revelar o grande mistério
 Ensinando amar a Deus  
 O Rei do nosso império.  
 
-<!-- pagebreak -->
+---
 
 Quero falar de São Pedro  
 Da comunidade Costinha  
@@ -123,7 +123,7 @@ Foi feita sua vontade
 Ficaram todos alegres  
 Hoje é só felicidade.  
 
-<!-- pagebreak -->
+---
 
 A festa de São Pedro  
 Já era uma tradição  

@@ -33,7 +33,7 @@ O último a se formar
 Sua capital é Palmas  
 É muito belo este lugar.  
 
-<!-- pagebreak -->
+---
 
 Agora falo do Nordeste  
 Começo pelo Maranhão  
@@ -63,7 +63,7 @@ Terra do rio araranguá
 E do Rio Grande do Sul  
 Lugar da serra do mar.  
 
-<!-- pagebreak -->
+---
 
 Agora  o Centro Oeste  
 A região do pantanal  
@@ -93,7 +93,7 @@ Grande capital da Bahia
 Rio de Janeiro é Rio de Janeiro  
 Terra de muitas folias.  
 
-<!-- pagebreak -->
+---
 
 Estado de Pernambuco  
 Sua capital é Recife  
@@ -123,7 +123,7 @@ Capital de Roraima
 Rodônia é porto Velho  
 Lugar das  chapadas.  
 
-<!-- pagebreak -->
+---
 
 Alagoas, capital é Maceió  
 Terra de barcos pesqueiros  

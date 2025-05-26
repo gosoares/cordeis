@@ -32,7 +32,7 @@ E dona Maria da Penha
 Jesus Cristo que o tenham  
 E lhes der boa sentença.  
 
-<!-- pagebreak -->
+---
 
 Exerceu várias funções  
 Para ganhar dinheiro  
@@ -61,7 +61,7 @@ Quando tinha 15 anos
 Casar era seu plano  
 O dito homem apareceu  
 
-<!-- pagebreak -->
+---
 
 Casou-se  em 1964  
 Só tinha 15 anos  
@@ -95,7 +95,7 @@ Abriram um mercadinho
 Ainda pequenininho  
 Mas com chance de aumentar.  
 
-<!-- pagebreak -->
+---
 
 Foi o primeiro de Lucena  
 A abrir um mercadinho  
@@ -129,7 +129,7 @@ Acolhia com muita alegria
 Como que fosse da família  
 Com gratidão e amor  
 
-<!-- pagebreak -->
+---
 
 Ele teve pouco estudo  
 Mas era inteligente  
@@ -166,7 +166,7 @@ Pra ele tiro o chapéu
 Deus levou para o céu  
 Muita saudade deixou  
 
-<!-- pagebreak -->
+---
 
 Criou seus 04 filhos  
 Ensinando como trabalhar  
@@ -200,7 +200,7 @@ Fiz com o maior prazer
 Nunca vou lhe esquecer  
 Nas minhas rimas de cordel.  
 
-<!-- pagebreak -->
+---
 
 No dia 10 de janeiro  
 De 2024  
@@ -235,7 +235,7 @@ Foi bom pai, bom marido
 Um dos melhores amigos  
 Na hora da precisão.  
 
-<!-- pagebreak -->
+---
 
 Francisco no teu velório  
 Doeu no meu coração  
@@ -264,6 +264,6 @@ Isso aqui não é nada
 Perante a cruz pesada  
 Que o filho de Deua carregou.  
 
-<!-- pagebreak -->
+---
 
 Seu nome completo, Francisco Gomes da Silva, nasceu na fazenda Nossa Senhora de Lourdes, município de Marí, em 09 de fevereiro de 1940 e faleceu em Fagundes município de Lucena em 10 de janeiro de 2024.

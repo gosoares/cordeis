@@ -31,7 +31,7 @@ Segundo o leitor diz
 Na Bahia e Santa Catarina  
 Foi uso mercantil.  
 
-<!-- pagebreak -->
+---
 
 No século XX  
 Chegou em Lucena  
@@ -61,7 +61,7 @@ Na nossa linda prainha
 Empregando seu povo  
 Pra ganhar sua feirinha.  
 
-<!-- pagebreak -->
+---
 
 As espéces das baleias  
 Tinha de todo porte  
@@ -91,7 +91,7 @@ Para ganhar o seu pão
 Cheguei em 69  
 Com muita disposição.  
 
-<!-- pagebreak -->
+---
 
 Construi muitos amigos  
 Ficando muito feliz  
@@ -121,7 +121,7 @@ E conheci meus amigos
 Ficou guardado pra sempre  
 Na página do meu livro.  
 
-<!-- pagebreak -->
+---
 
 Cheguei na Copesbra  
 Tinha 19 anos  
@@ -151,7 +151,7 @@ O sonho de muita gente
 Não foi atoa que deixei  
 Meus amigos e parentes.  
 
-<!-- pagebreak -->
+---
 
 Já estava cansado  
 De trabalhar clandestino  
@@ -181,7 +181,7 @@ Até pra fazer feira
 E pra socorrer doente  
 Tinha lancha a noite inteira.  
 
-<!-- pagebreak -->
+---
 
 Vinha gente de Fagundes  
 Da Guia e Mangereba  
@@ -211,7 +211,7 @@ Nã faltava uma moeda
 Dinheiro vinha agranel  
 Era igual sal de pedra.  
 
-<!-- pagebreak -->
+---
 
 Me lembro de um dia  
 Quando Collor assumiu  
@@ -241,7 +241,7 @@ Realizou o pagamento
 Dos seus funcionários  
 Foi muito competente.  
 
-<!-- pagebreak -->
+---
 
 O japonês matava baleia  
 Tavez até por ambição  
@@ -271,7 +271,7 @@ Depois no cino batia
 Era hora de trabalhar  
 Normas da companhia.  
 
-<!-- pagebreak -->
+---
 
 Todos ficavam de pé  
 E iam para suas secçoẽs  
@@ -301,7 +301,7 @@ Vi a coisa  ficar feia
 Fizemos um lote de carne  
 Que chegou perto da telha.  
 
-<!-- pagebreak -->
+---
 
 O trabalho da charqueada  
 Era muito duro e sofrido  
@@ -331,7 +331,7 @@ Todos inteligentes
 Eu e meus amigos  
 Éramos todos inocentes.  
 
-<!-- pagebreak -->
+---
 
 Para viver hoje em dia  
 Não precisa matar baleia  
@@ -361,7 +361,7 @@ As duas horas da tarde
 Eram tantos compradores  
 Só não vendia fiado.  
 
-<!-- pagebreak -->
+---
 
 Era Corina e Alfredo  
 Severina e Maria José  
@@ -391,7 +391,7 @@ Comprava de carreta
 Josa e josé Luiz  
 Levavam seca e feasca  
 
-<!-- pagebreak -->
+---
 
 Também tinha Cirlene  
 Esposa de Everaldo  
@@ -421,7 +421,7 @@ Vinha gente até da Guia
 De Alagoa e Pernambuco  
 Minas Garais e Bahia.  
 
-<!-- pagebreak -->
+---
 
 Vinha gente de outros países  
 Ver a chegada das baleias  
@@ -450,7 +450,7 @@ Para fazer artesanato
 E barbatana de baleia  
 Processada por Donato.  
 
-<!-- pagebreak -->
+---
 
 Seu Augusto Laurentino  
 Também vendia dentes  
@@ -480,7 +480,7 @@ Antônio Donato ao lado
 Raminho puxava o arame  
 Biu Bode no mesmo traçado.  
 
-<!-- pagebreak -->
+---
 
 Cosminho na manobra  
 Não perdia pra ninguém  
@@ -510,7 +510,7 @@ Não dava mais bife
 Fazia carne  de sol  
 E carnarina pra bicho.  
 
-<!-- pagebreak -->
+---
 
 Para escolher a carne  
 Tinha dedé Falcãozeiro  
@@ -533,7 +533,7 @@ Mota não deixava torto
 Apesar de sua idade  
 Era um homem disposto.  
 
-<!-- pagebreak -->
+---
 
 Ia para o frigorífico  
 Carne para exportação  
@@ -570,7 +570,7 @@ Mandava no pedaço
 José do pão e Barbeiro  
 Eram dois velhos macho.  
 
-<!-- pagebreak -->
+---
 
 A secção da caldeira  
 Quem mandava, Bururé  
@@ -600,7 +600,7 @@ Trabalhava sem medo
 Seu trabalho era aberto  
 Com ele não tinha segredo.  
 
-<!-- pagebreak -->
+---
 
 Tinha como ajudantes  
 Birá, Adelson e Edvaldo  
@@ -630,7 +630,7 @@ Deixava tudo nos graus
 Faziam todos serviços  
 Esses dois eram genial.  
 
-<!-- pagebreak -->
+---
 
 Também tinha as lanchas  
 Costinha, Cisne e Racata  
@@ -660,7 +660,7 @@ Até controlar as libras
 Para funcionar os guinchos  
 Tinha que ter muita fibra.  
 
-<!-- pagebreak -->
+---
 
 A secção do refeitório  
 Lourdes cuidava dos japoneses  
@@ -690,7 +690,7 @@ De ganhar nosso dinheiro
 O ferrugem tomou conta  
 Do velho navio baleeiro  
 
-<!-- pagebreak -->
+---
 
 O navio saia as 5 horas  
 Com sua tripulação  
@@ -720,7 +720,7 @@ Para as baleias aviatar
 Precisava muito cuidado  
 Para não se machucar.  
 
-<!-- pagebreak -->
+---
 
 Quem avistasse baleia  
 Ganhava uma comissão  
@@ -750,7 +750,7 @@ Ele dava mais valor
 Queria ver produção  
 Fazia do povo motor.  
 
-<!-- pagebreak -->
+---
 
 Seu Adalto era consiente  
 Só queria tudo certo  
@@ -781,7 +781,7 @@ Com muita premiação
 Todo final de ano  
 Tinha boa gratificação.  
 
-<!-- pagebreak -->
+---
 
 Lembrei de Pedro Júlio  
 Bazar, Bal e Calderão  
@@ -811,7 +811,7 @@ Já começava a matar
 Deixava as baleias nas boias  
 Até a hora de voltar.  
 
-<!-- pagebreak -->
+---
 
 Ainda falando do navio  
 Aonde tinha muita despesa  
@@ -841,7 +841,7 @@ De mim nunca esquecer
 Se vovô escreveu um livro  
 Nós também podemos escrever.  
 
-<!-- pagebreak -->
+---
 
 Ainda tinha mais gentes  
 Que trabalhava comigo  
@@ -871,7 +871,7 @@ Logo chegava um recado
 Vamos buscar um caminhão  
 Que  ficou atolado.  
 
-<!-- pagebreak -->
+---
 
 A trinta anos atrás  
 Aqui não tinha estrada  
@@ -901,7 +901,7 @@ Tinha pouca solução
 De arrumar outro emprego  
 Para ganhar nosso npão.  
 
-<!-- pagebreak -->
+---
 
 Ainda hoje tem gente  
 Que está desagarrado  
@@ -932,7 +932,7 @@ Era uma panela cheia
 Quando iam não matava  
 Voltavam de cara feia.  
 
-<!-- pagebreak -->
+---
 
 OQundo a fábrica fechou  
 Fiuei desempregado  
@@ -962,7 +962,7 @@ Para mim sustentar
 Lutei trinta e oito anos  
 Pra poder me aposentar.  
 
-<!-- pagebreak -->
+---
 
 Meus pais ficaram orfãos  
 Com 5 anos de idade  
@@ -992,7 +992,7 @@ Não tinha sabotagem
 Os trabalhadores eram unidos  
 Não existia maldade.  
 
-<!-- pagebreak -->
+---
 
 A copesbra era boa  
 Também muito correta  
@@ -1022,7 +1022,7 @@ Zito, Antônio e Donato
 Rodrigo, Poroca e Derval  
 Antônio e seu irmão macaco.  
 
-<!-- pagebreak -->
+---
 
 Ainda tinha outro caso  
 Com outra família  
@@ -1052,7 +1052,7 @@ Muitos vinham a cavalos
 Também vinham de Cabedelo  
 Waldemar e Manoel Amaro.  
 
-<!-- pagebreak -->
+---
 
 Tem gente preoculpado  
 Porque voltei a estudar  

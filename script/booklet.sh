@@ -49,18 +49,33 @@ for dir in content/cordeis/*; do
     md="$dir/index.md"
     tmp_md="$dir/index_processed.md"
 
-    # Replace <!-- pagebreak --> with \clearpage and ensure stanza separation
-    awk '
-      BEGIN { in_yaml=0; yaml_delim=0 }
-      {
-        if ($0 ~ /^---[[:space:]]*$/) {
-          yaml_delim++
-          in_yaml = (yaml_delim % 2 == 1)
+    # Replace horizontal rule (--- or ***) with \clearpage and ensure stanza separation
+    awk -v yaml_count=0 '
+      BEGIN { in_yaml=0 }
+      # Handle YAML front matter markers
+      /^---[[:space:]]*$/ {
+        yaml_count++
+        if (yaml_count <= 2) {
           print
           next
         }
-        if (in_yaml) { print; next }
-        gsub(/<!-- pagebreak -->/, "\n\n\\clearpage\n\n")
+        # After YAML, it must be a horizontal rule, replace with clearpage
+        print "\\clearpage"
+        next
+      }
+      # Inside YAML front matter
+      yaml_count == 1 {
+        print
+        next
+      }
+      # Outside YAML, process the rest normally
+      {
+        # Convert <hr> tags to clearpage
+        if ($0 ~ /<hr[[:space:]]*\/?>/) {
+          print "\\clearpage"
+          next
+        }
+        # Regular content
         if (NF) {
           if (!in_stanza) in_stanza=1
           print

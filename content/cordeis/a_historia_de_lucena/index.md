@@ -33,7 +33,7 @@ Com muitas ondas bonitas
 Se vê os peixes pulando  
 O sol nascendo é legal  
 
-<!-- pagebreak -->
+---
 
 Tem nossas lindas praias  
 Começam em Costinha  
@@ -63,7 +63,7 @@ Para ninguém chegar perto
 Por causa dos holandeses  
 Que eram muito espertos  
 
-<!-- pagebreak -->
+---
 
 Eu sou Manoel Ribeiro  
 Natural de Santa Rita  
@@ -79,7 +79,7 @@ Ao meu querido leitor
 Tentei agradar a todos  
 Vontade não me faltou  
 
-<!-- pagebreak -->
+---
 
 Quero falar de um amigo  
 Uma pesca inteligente  
@@ -109,7 +109,7 @@ Conto aqui sua história
 Cidade de muitos encantos  
 Guardo para sempre na memória  
 
-<!-- pagebreak -->
+---
 
 O convento da Guia  
 Tem coisas boas  
@@ -125,7 +125,7 @@ As altas da madrugada
 Sete e oito de dezembro  
 Tem festa e vaquejada  
 
-<!-- pagebreak -->
+---
 
 De todo canto do Brasil  
 Vem muitos romeiros  
@@ -148,7 +148,7 @@ Bonita como um brinco
 Fica bem pertinho  
 Da divisa de Rio Tinto  
 
-<!-- pagebreak -->
+---
 
 Cuida bem de nossa cidade  
 Impondo respeito e moral  
@@ -178,7 +178,7 @@ De doação e caridade
 Educando nossas crianças  
 Com amor e dignidade  
 
-<!-- pagebreak -->
+---
 
 Era administrada por Andrea  
 Uma pessoa muito amiga  
@@ -208,7 +208,7 @@ Faz um trabalho brilhante
 Punindo os infratores  
 Sendo correta e atuante  
 
-<!-- pagebreak -->
+---
 
 O Ferry Boat é muito útil  
 Para nossa região  
@@ -224,7 +224,7 @@ Pode passar de montão
 São bem atendidos  
 Pela sua tripulação  
 
-<!-- pagebreak -->
+---
 
 Ainda tem outra opção  
 De Cabedelo a Costinha  
@@ -254,7 +254,7 @@ Frango e carne de gado
 Tem um gostoso pastel  
 E um guaraná gelado  
 
-<!-- pagebreak -->
+---
 
 Fica no terminal de Lucena  
 Na praia de Camaçari  
@@ -270,7 +270,7 @@ Para este lugar
 Abrigos para as crianças  
 Que não tem onde ficar  
 
-<!-- pagebreak -->
+---
 
 Quando chegar em Costinha  
 Na saída do Ferry Boat  
@@ -286,7 +286,7 @@ João de Tana e Manoel Ribeiro
 Avelar, Pedro Felino,  
 Zé da Barcaça e Oliveiro  
 
-<!-- pagebreak -->
+---
 
 Quero falar de uma escola  
 Para mim muito importante  
@@ -316,7 +316,7 @@ Para se saborear
 Ainda tem seresta dançante  
 Para curtir e dançar  
 
-<!-- pagebreak -->
+---
 
 Tem a barraca do Jó  
 Que lhe atende com carinho  
@@ -339,7 +339,7 @@ Com pratos gostosos
 Camarão, carne e peixe  
 E também bolo fofo  
 
-<!-- pagebreak -->
+---
 
 Ainda tem outros amigos  
 José Olívio e Zé Bilar  
@@ -369,7 +369,7 @@ Espada, sardinha e dourado
 Ariacó, parú e pescada  
 Arraia, cação e linguado  
 
-<!-- pagebreak -->
+---
 
 Foi no ano de 69  
 Que chegaram na cidade  
@@ -399,7 +399,7 @@ Era um belo parceiro
 Quando começava a jogar  
 Sempre era o mais ligeiro  
 
-<!-- pagebreak -->
+---
 
 Ainda em Costinha  
 Tem Maria Belém  
@@ -429,7 +429,7 @@ A clientela é grande
 Sempre tem de tudo  
 Ninguém fica na mão  
 
-<!-- pagebreak -->
+---
 
 Tem Tonha do bazar  
 Que vende confecção  
@@ -459,7 +459,7 @@ Marisco, ostra e camarão
 A cozinheira é craque  
 Faz um gostoso pirão  
 
-<!-- pagebreak -->
+---
 
 Atualmente está diferente  
 Temos água encanada  
@@ -489,7 +489,7 @@ Houve um avanço na educação
 Educando com respeito  
 Capacitando a região  
 
-<!-- pagebreak -->
+---
 
 Muita coisa hoje mudou  
 Nossos filhos sabem ler  
@@ -519,7 +519,7 @@ Quem não, ia na beirada
 Do doce Rio do Jardim  
 A água lá era farta  
 
-<!-- pagebreak -->
+---
 
 Tem a peixaria de Zezinho  
 Filho de Zé Damião  
@@ -549,7 +549,7 @@ E atende muito bem
 O povo da região diz  
 Valdo e Júnior, parabéns  
 
-<!-- pagebreak -->
+---
 
 Tem o bar da graça  
 Como tira-gosto e aratu  
@@ -572,7 +572,7 @@ Eliezer, Biu e Vaduca
 Todos são profissionais  
 Não tem nenhum recruta  
 
-<!-- pagebreak -->
+---
 
 Em homenagem a uma cidade  
 Que tinha na Espanha  
@@ -602,7 +602,7 @@ Também pesca de espinhel
 Quando consegue pegar  
 Agradece a Deus do céu  
 
-<!-- pagebreak -->
+---
 
 O clima de Lucena  
 É gostoso e tropical  
@@ -632,7 +632,7 @@ Por nome de Luiz de Cenal
 Lucena é vagalume  
 Na língua de Portugal  
 
-<!-- pagebreak -->
+---
 
 Na Guia você encontra  
 A Creche do Frei Ricardo  
@@ -648,7 +648,7 @@ Para a criança aprender a ler
 Os professores dóceis e atentos  
 E ainda bem capacitados  
 
-<!-- pagebreak -->
+---
 
 Tem a Casa do Idoso  
 A melhor coisa da região  
@@ -678,7 +678,7 @@ Isso é que verdade
 Aos seus trabalhadores  
 Homens de dignidade  
 
-<!-- pagebreak -->
+---
 
 Aqui quero falar  
 Dos aspectos geográficos  
@@ -708,7 +708,7 @@ O riacho do Jordão
 Falta a lagoa dos homens  
 Lugar de muita tradição  
 
-<!-- pagebreak -->
+---
 
 Tem a amiga Zuleide  
 Com sua loja de miudeza  
@@ -738,7 +738,7 @@ Veja a boa organização
 Efetue o pagamento  
 Passando também o cartão  
 
-<!-- pagebreak -->
+---
 
 O empresário Sr. Gilvan  
 Está de parabéns  
@@ -754,7 +754,7 @@ Para os pais foi uma glória
 Fica meus parabéns  
 Ao pessoal que controla  
 
-<!-- pagebreak -->
+---
 
 Vou falar da Copesbra  
 Que pescou baleias em Lucena  
@@ -784,7 +784,7 @@ Que coisa interessante
 As baleias viam de longe  
 De mares bem distante  
 
-<!-- pagebreak -->
+---
 
 Vende xarope para gripe  
 Colírio para a visão  
@@ -813,7 +813,7 @@ De acordo com sua precisão
 Pode encher o carrinho  
 E pagar com seu cartão  
 
-<!-- pagebreak -->
+---
 
 Tem a padaria da Lica  
 E do esposo Lourival  
@@ -836,7 +836,7 @@ Procure João Toscano
 Em linha de medicamento  
 Ele é soberano  
 
-<!-- pagebreak -->
+---
 
 A baleia foi muito valiosa  
 Para a nossa população  
@@ -866,7 +866,7 @@ Tempos ruins já viveram
 Não querem matar baleia  
 Aqueles tempos esqueceram  
 
-<!-- pagebreak -->
+---
 
 Não precisa mais pescar baleia  
 Para viver sossegado  
@@ -882,7 +882,7 @@ Com 11 votos foi eleito
 Para governar Lucena  
 Com tudo que tinha direito  
 
-<!-- pagebreak -->
+---
 
 Mercadinho de João de Esther  
 De frente a Pedro Bandeira  
@@ -912,7 +912,7 @@ Para atender a freguesia
 Além do ótimo atendimento  
 Trabalha com primazia  
 
-<!-- pagebreak -->
+---
 
 Tem o desfile Cívico  
 Das escolas municipais  
@@ -942,7 +942,7 @@ Fica na rua João Monteiro
 Construa seu imóvel  
 Gastando pouco dinheiro  
 
-<!-- pagebreak -->
+---
 
 Dividiu uma sala de aula  
 Fazendo dois setores  
@@ -972,7 +972,7 @@ Bahia e sua esposa Lane
 O que procura se tem  
 E continua se arrumando  
 
-<!-- pagebreak -->
+---
 
 Tem a padaria do Elmo  
 Uma velha tradição  
@@ -1002,7 +1002,7 @@ Atende bem a população
 Cimento, caibro, linha  
 Parafuso, ruela e portão  
 
-<!-- pagebreak -->
+---
 
 O carnaval de Lucena  
 É uma velha tradição  
@@ -1032,7 +1032,7 @@ Para brincar o carnaval
 Começa na sexta-feira  
 Quarta de cinzas é o final  
 
-<!-- pagebreak -->
+---
 
 Tem o baião de dois  
 Também a feijoada  
@@ -1055,7 +1055,7 @@ De repente anoitece
 O povo brinca tanto  
 Até da família esquece  
 
-<!-- pagebreak -->
+---
 
 Tem a padaria do Lucinho  
 Que atende muita gente  
@@ -1085,7 +1085,7 @@ Feijão, carne e galinha
 Camarão, fígado e peixe  
 Também o pirão de farinha  
 
-<!-- pagebreak -->
+---
 
 Lucena é muito bonita  
 Venha ver pra crer  
@@ -1115,7 +1115,7 @@ Que espalha confiança
 Meu pai já comprava lá  
 Quando ainda eu era criança  
 
-<!-- pagebreak -->
+---
 
 A festa é comemorada  
 Na véspera de São Pedro  
@@ -1145,7 +1145,7 @@ Sardinha, espada e parú
 Churrasco assado na brasa  
 Galinha, pato e peru  
 
-<!-- pagebreak -->
+---
 
 Tem que ter mais empenho  
 Da Secretaria de Cultura  
@@ -1175,7 +1175,7 @@ Todo mundo bota o dedo
 É tanta modificação  
 Que o povo fica com medo  
 
-<!-- pagebreak -->
+---
 
 O mercado esperança  
 É uma velha tradição  
@@ -1205,7 +1205,7 @@ O mais antigo da região
 Se você for construir  
 Sem dúvida a melhor opção  
 
-<!-- pagebreak -->
+---
 
 Neste estabelecimento  
 O atendimento é sem igual  
@@ -1235,7 +1235,7 @@ foram muito inteligentes
 suprindo com a precisão  
 de toda aquela boa gente  
 
-<!-- pagebreak -->
+---
 
 Também tem a lapinha  
 Que não pode acabar  
@@ -1265,7 +1265,7 @@ O povo de Lucena brinca
 Falta amor e incentivo  
 Para descascar a cana  
 
-<!-- pagebreak -->
+---
 
 Aqui continuo falando  
 Da cultura de Lucena  
@@ -1295,7 +1295,7 @@ O que leva nessa canoa
 Levo prata, levo ouro  
 Levo coisas muito boas  
 
-<!-- pagebreak -->
+---
 
 Ainda na principal  
 Tem a barbearia do Cal  
@@ -1326,7 +1326,7 @@ Para abrir seu açougue
 E seus clientes atender  
 Ele é um grande homem  
 
-<!-- pagebreak -->
+---
 
 Tem um bom coração  
 Ajuda os mais carentes  
@@ -1355,7 +1355,7 @@ Em Fagundes é pioneiro
 Concerta e vende peças  
 E cobra pouco dinheiro  
 
-<!-- pagebreak -->
+---
 
 Antes era Maguary  
 Primeiro nome usado  
@@ -1385,7 +1385,7 @@ Pessoa de bom coração
 Paulo de Marica me deu  
 Do senhor informação  
 
-<!-- pagebreak -->
+---
 
 Emprega gente de Sapé  
 Bayeux e Santa Rita  
@@ -1415,7 +1415,7 @@ Até o porto do estado
 Embarcado em navio  
 Para ser exportado  
 
-<!-- pagebreak -->
+---
 
 A oficina do Ribeiro  
 Tem um bom atendimento  
@@ -1445,7 +1445,7 @@ Ele serve de portador
 Vai atender bem o cliente  
 Com muito carinho e amor  
 
-<!-- pagebreak -->
+---
 
 Vou falar do salão de beleza  
 Da filha do amigo Dida  
@@ -1475,7 +1475,7 @@ Num lugar antes carente
 Era tudo que precisava  
 Para atender aquela gente  
 
-<!-- pagebreak -->
+---
 
 A Coco do Vale é uma benção  
 Para a cidade de Lucena  
@@ -1491,7 +1491,7 @@ Que se usa no ensopado
 E o povo de Lucena  
 Muitos estão empregados  
 
-<!-- pagebreak -->
+---
 
 Tem o Rio de Mangereba  
 Também faz parte da divisão  
@@ -1514,7 +1514,7 @@ Para ganhar o seu pão
 Lucena, Sapé e Santa Rita  
 Vem gente até do Sertão  
 
-<!-- pagebreak -->
+---
 
 Ainda em Gameleira  
 Tem o Bar do Ceará  
@@ -1544,7 +1544,7 @@ Com muita água de coco
 Você precisa conhecer  
 Por ela vai ficar louco  
 
-<!-- pagebreak -->
+---
 
 Em ponta de Lucena  
 Tem o mercado Araújo  
@@ -1574,7 +1574,7 @@ De um povo simples e honesto
 Onde tem empenho e amor  
 Acaba sempre dando certo  
 
-<!-- pagebreak -->
+---
 
 Minha Lucena é assim  
 Muito bela e querida  
@@ -1604,7 +1604,7 @@ Lucena e Santa Rita
 Deságua no mar em Costinha  
 Quase ninguém acredita  
 
-<!-- pagebreak -->
+---
 
 Querem conhecer a igreja  
 Venha até aqui  
@@ -1634,7 +1634,7 @@ Ele era delegado
 Prendia bêbado e bagunceiro  
 Quando estava revoltado  
 
-<!-- pagebreak -->
+---
 
 Minha querida Lucena  
 Lembra Fernando Monteiro  
@@ -1664,7 +1664,7 @@ Tinha um amigo ao seu lado
 O senhor João Agripino  
 Era governador do estado  
 
-<!-- pagebreak -->
+---
 
 Construiu salas de aula  
 Na escola Américo Falcão  
@@ -1694,7 +1694,7 @@ Junto com ele realizou
 A principal Américo Falcão  
 De ponta a ponta pavimentou  
 
-<!-- pagebreak -->
+---
 
 Cuidavam da igreja  
 Com amor e carinho  
@@ -1724,7 +1724,7 @@ Deixando o verdadeiro
 Foi feita a doação  
 Não custou nenhum dinheiro  
 
-<!-- pagebreak -->
+---
 
 Hoje está esquecida  
 Deixaram se acabar  
@@ -1740,7 +1740,7 @@ Um cuidadoso ferrenho
 Junto com sua esposa  
 Tinham muito desempenho  
 
-<!-- pagebreak -->
+---
 
 Colocou energia elétrica  
 Em Ponta e Gameleira  
@@ -1770,7 +1770,7 @@ Fez tudo com primazia
 As mulheres podiam lavar  
 As roupas do dia a dia  
 
-<!-- pagebreak -->
+---
 
 Fez uma reforma  
 No centro comercial  
@@ -1800,7 +1800,7 @@ Levando educação
 Também a Babilônia  
 Com a mesma dedicação  
 
-<!-- pagebreak -->
+---
 
 Mudando de assunto  
 Quero falar de Bonsucesso  
@@ -1816,7 +1816,7 @@ E ver uma Gameleira
 Antes era muito zelada  
 Pelo senhor Antônio da Silveira  
 
-<!-- pagebreak -->
+---
 
 Em 1985  
 Veio a paralisação  
@@ -1846,7 +1846,7 @@ Estou ficando estressado
 Esperando uma solução  
 Dos nossos deputados  
 
-<!-- pagebreak -->
+---
 
 Levou abastecimento  
 De água para Costinha  
@@ -1876,7 +1876,7 @@ Para governar a prefeitura
 Foi o compadre Antenor  
 Quem o ajudou na abertura  
 
-<!-- pagebreak -->
+---
 
 Prefeito Manoel Marinho  
 Foi um grande amigão  
@@ -1906,7 +1906,7 @@ Calçar sem problema
 Toda a nossa estrada  
 Tudo dentro do sistema  
 
-<!-- pagebreak -->
+---
 
 Fazia da carne da baleia  
 Carne de sol e espalmada  
@@ -1936,7 +1936,7 @@ Setenta e quatro anos
 Acabar com nossos empregos  
 Não eram os nossos planos  
 
-<!-- pagebreak -->
+---
 
 Quero falar da Copesbra  
 Onde trabalhava com baleias  
@@ -1966,7 +1966,7 @@ Comprava-se com meuita fé
 Comia-se frita e assada  
 Fazia-se até sarapaté  
 
-<!-- pagebreak -->
+---
 
 De 89 a 97 assume  
 Novamente o Antenor  
@@ -1996,7 +1996,7 @@ Tiveram um bom comando
 Ficaram na lembrança  
 Ninguém sabe até quando  
 
-<!-- pagebreak -->
+---
 
 Inauguram a PB 25  
 Com o governo federal  
@@ -2026,7 +2026,7 @@ Com iluminação real
 Para aquela região  
 Foi uma ação primordial  
 
-<!-- pagebreak -->
+---
 
 O senhor Octávio Monteiro  
 Foi dele a sugestão  
@@ -2056,7 +2056,7 @@ Na nossa linda prainha
 Trazendo emprego para o povo  
 Coisa que antes não tinha  
 
-<!-- pagebreak -->
+---
 
 Tem Oitero de Miranda  
 Lugar bom de morar  
@@ -2086,7 +2086,7 @@ Deixando-a mais bonita
 Com 12 lampiões de querosene  
 Eu digo ninguém acredita  
 
-<!-- pagebreak -->
+---
 
 Costinha foi presenteada  
 Com a chegada do gabião  
@@ -2116,7 +2116,7 @@ A população do local
 Para os esportistas  
 Foi uma atitude legal  
 
-<!-- pagebreak -->
+---
 
 Fez o muro do colégio  
 No Juvêncio de Carvalho  
@@ -2146,7 +2146,7 @@ Chegou com disposição
 Para trabalhar na cidade  
 E agradar o povão  
 
-<!-- pagebreak -->
+---
 
 Eu acho que Marcelo  
 Tem tudo para trabalhar  
@@ -2176,7 +2176,7 @@ As lindas ondas do mar
 É um lugar indispensável  
 Para o turista visitar  
 
-<!-- pagebreak -->
+---
 
 No ano de 2012  
 Foi a vez de Marcelo Monteiro  
@@ -2206,7 +2206,7 @@ De nome Antônio Toscano
 A Secretaria de Saúde  
 Também está ampliando  
 
-<!-- pagebreak -->
+---
 
 Começou com empenho  
 Com luta e alegria  
@@ -2236,7 +2236,7 @@ E poder trabalhar
 Não precisa ir tão longe  
 Para poder estudar  
 
-<!-- pagebreak -->
+---
 
 Fez praça na Estiva  
 Parte de uma rua Calçou  
@@ -2266,7 +2266,7 @@ Para a população
 Fernando Monteiro seu tio  
 Homem de bom coração  
 
-<!-- pagebreak -->
+---
 
 Calçou a rua Carolino Galvão  
 Por trás do grupo escolar  

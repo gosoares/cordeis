@@ -38,7 +38,7 @@ Quando chovia tudo molhava
 Mas a gente se amava  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Era num prato de barro  
 Que botava o alimento  
@@ -73,7 +73,7 @@ Não esqueçam a comida
 Assim era nossa vida  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Perdi mamãe com doze anos  
 Partiu quem mais me amava  
@@ -108,7 +108,7 @@ A noite era calma e fria
 Mas era grande a alegria  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Viviámos num fiasco  
 Nos faltava alimentação  
@@ -143,7 +143,7 @@ Saía na madrugada
 Nada pra família deixava  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Houve dias que não tinha  
 Mistura pra gente comer  
@@ -178,7 +178,7 @@ Mamãe fazia calos nas mãos
 Batendo café num pilão  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Lembro o peixe bacalhau  
 Era envolto em barricas  
@@ -213,7 +213,7 @@ Com o tempo ela morreu
 Foi morar perto de Deus  
 E não voltou nunca mais.  
 
-<!-- pagebreak -->
+---
 
 Meu pai fazia uma fogueira  
 Trazia milho do roçado  
@@ -248,7 +248,7 @@ Nas porteiras se benzia
 Rezava pai nosso e Ave Maria  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Se comia beiju de massa  
 Feito em casa no caco  
@@ -283,7 +283,7 @@ Além de comer no puro
 Anoitecia no escuro  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Meu tio dizia Manoel  
 Hoje não vai pinotar  
@@ -318,7 +318,7 @@ Sempre seguir a lei
 Todos tinham sua vez  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 O tempo de namorar  
 Era uma grande alegria  
@@ -353,7 +353,7 @@ Nunca sai da lembrança
 Meu tempo de criança  
 Coisa que não existe mais  
 
-<!-- pagebreak -->
+---
 
 Pai e seus calçados  
 Feitos com pneu de trator  
@@ -388,7 +388,7 @@ Todos tinham que trabalhar
 Trabalho ajuda a educar  
 Coisa que não existe mais.  
 
-<!-- pagebreak -->
+---
 
 Trabalhei numa fazenda  
 De nome Usina Santana  

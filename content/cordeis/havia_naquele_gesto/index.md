@@ -31,7 +31,7 @@ Era sempre sua meta
 Saber dos professores  
 Se as coisas estavam correta.  
 
-<!-- pagebreak -->
+---
 
 Muito tempo de você  
 Isso não dá pra negar  

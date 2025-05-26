@@ -33,7 +33,7 @@ Desculpam minhas palavras
 Pra falar de roupa suja  
 Primeiro lave a de casa.  
 
-<!-- pagebreak -->
+---
 
 Faço rima de cordel  
 Para meu povo querido  
@@ -63,7 +63,7 @@ Cuide de sua garganta
 Escutava meu pai dizer  
 Quem canta os mares espanta.  
 
-<!-- pagebreak -->
+---
 
 Para o público presente  
 Brinco com meus cordeis  
@@ -93,7 +93,7 @@ Sempre firme e de pé
 Dizem que filho de peixe  
 Sempre peixinho é.  
 
-<!-- pagebreak -->
+---
 
 Esse meu caro ouvinte  
 falo de amor e união  
@@ -123,7 +123,7 @@ Os melhores presentes
 Quando o cavalo é dado  
 Nunca se olha os dentes.  
 
-<!-- pagebreak -->
+---
 
 Esse ditado porém  
 Falo de ouro e prata  
@@ -153,7 +153,7 @@ Paz, amor e carinho
 Porque águas passadas  
 Não movem meu moinho  
 
-<!-- pagebreak -->
+---
 
 Este cordel meu amigo  
 Quero falar de amizade  
@@ -183,7 +183,7 @@ A oração de São Benedito
 Quando a boca tá fechada  
 Nela não entra mosquito.  
 
-<!-- pagebreak -->
+---
 
 Faço meus cordeis  
 Toda em rima a poesia  
@@ -213,7 +213,7 @@ Com fé nada me atrasa
 Vaso ruim não quebra  
 Porém quem casa quer casa.  
 
-<!-- pagebreak -->
+---
 
 Quem espera sempre alcança  
 De esperar meu pai morreu  
@@ -243,7 +243,7 @@ Escreve certo por linhas tortas
 Pra baixo todo santo ajuda  
 O bom filho a casa volta.  
 
-<!-- pagebreak -->
+---
 
 Há mal que vem por bem  
 Eu nunca me atrapalho  
@@ -273,7 +273,7 @@ Mas que sejam bem rimados
 Sejam bricalhões tambẽm  
 Desse cordel encantado.  
 
-<!-- pagebreak -->
+---
 
 Minha vida é escrever  
 Amo fazer cordel  

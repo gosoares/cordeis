@@ -36,7 +36,7 @@ Trazendo com  carinho
 Boneca, bola e carrinho  
 As crianças vão ao Céu  
 
-<!-- pagebreak -->
+---
 
 Se escuta bem baixinho  
 O lindo som da orquestra  
@@ -71,7 +71,7 @@ Com uma fome danada
 Come até cobra queimada  
 Na grande seca do sertão.  
 
-<!-- pagebreak -->
+---
 
 A divina majestade  
 Com seu grande poder  
@@ -106,7 +106,7 @@ Para levar os presentes
 Ouro, mirra e incenso  
 Para Jesus com carinho  
 
-<!-- pagebreak -->
+---
 
 Nasceu numa estrebaria  
 Aonde tinha boi e cordeiro  
@@ -141,7 +141,7 @@ Não matar nem roubar
 E nossos pais respeitar  
 Amar a Deus primeiramente.  
 
-<!-- pagebreak -->
+---
 
 Minha cidade é Lucena  
 Gosto de escrever cordel  

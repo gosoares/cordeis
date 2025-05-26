@@ -38,7 +38,7 @@ Eles já sofriam demais
 Tantos castigos corporais  
 Já viviam de cabeça tonta.  
 
-<!-- pagebreak -->
+---
 
 Além de muitos  castigos  
 Ganhavam pouco dinheiro  
@@ -73,7 +73,7 @@ Preso em um calabouço
 Quem escapou ficou louco  
 Foram para o hospital Alienados.  
 
-<!-- pagebreak -->
+---
 
 Na Marinha do Brasil  
 Marinheiros eram escavros  
@@ -107,7 +107,7 @@ Os castigos eram demais
 Apesar de ter cido abolidos  
 Seguiam a lei dos tempos atrás.  
 
-<!-- pagebreak -->
+---
 
 Quem liderou a revolta  
 

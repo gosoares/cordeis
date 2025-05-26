@@ -36,7 +36,7 @@ Teu milagre e tua virtude
 Dá coragem, muita saúde  
 E força ao teu pescador,  
 
-<!-- pagebreak -->
+---
 
 Acho que ninguém sabe  
 Direito como relatar  
@@ -71,7 +71,7 @@ Da vaidade e do orgulho
 Guerra, questão e orgulho  
 Do mundo mais civilizado.  
 
-<!-- pagebreak -->
+---
 
 Hoje mais evoluída  
 No trabalho, na educação  
@@ -106,7 +106,7 @@ Louvando vagarosamente
 Todas alegre e contentes  
 Com o santo terço na mão.  
 
-<!-- pagebreak -->
+---
 
 Também nossa lapinha  
 Ainda é tradição  
@@ -141,7 +141,7 @@ Lembro da sua calma
 Hoje rezo pra sua alma  
 Meu amigo do coração.  
 
-<!-- pagebreak -->
+---
 
 'É belo a vida inteira  
 Viver contente e feliz  
@@ -176,7 +176,7 @@ Fica vagando no espaço
 Os meus caracóis eu faço  
 Por cima do meu torrão.  
 
-<!-- pagebreak -->
+---
 
 Lucena de Américo Falcão  
 Um homem muito sincero  

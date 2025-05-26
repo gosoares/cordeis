@@ -31,7 +31,7 @@ Fazia com muito amor
 Era honesto e ligeiro  
 Também muito trabalhador.  
 
-<!-- pagebreak -->
+---
 
 Comia na casa do irmão  
 De nome Francisco Morais  
@@ -61,7 +61,7 @@ Ela não saia do canto
 ficava ali ao seu lado  
 Não arredava um instante.  
 
-<!-- pagebreak -->
+---
 
 Ele nunca acreditou  
 Em Comadre Fulozina  
@@ -91,7 +91,7 @@ Eu corto ela de facão
 Chamou nome na mata  
 Ganhou sua promoção  
 
-<!-- pagebreak -->
+---
 
 Me lembro de um dia  
 Uma tarde de domingo  
@@ -121,7 +121,7 @@ Logo arrancou um pedaço
 Ele botou cachaça em cima  
 E enrolou com um saco.  
 
-<!-- pagebreak -->
+---
 
 Ele ficou aperriado  
 Perdeu muito sangue  
@@ -151,7 +151,7 @@ Cuidou logo em ir pra casa
 Nunca mais ele disse  
 Fulozinha que nada.  
 
-<!-- pagebreak -->
+---
 
 Assim foi a história  
 De Pedro e Folozinha  
@@ -181,7 +181,7 @@ Não fez nenhuma falta
 Cozinhava com carvão  
 Só não deixou a cachaça.  
 
-<!-- pagebreak -->
+---
 
 Ficou tratando da égua  
 Esqueceu o machado  
@@ -211,7 +211,7 @@ Foi ela quem me ensinou
 Espero que tenham gostado  
 Meu Tio Pedro não gostou.  
 
-<!-- pagebreak -->
+---
 
 Quem segue a lei de Deus  
 Nunca erra seu caminho  

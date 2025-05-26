@@ -31,7 +31,7 @@ Gente boas de verdade
 Estudei conclui o médio  
 Para minha felicidade.  
 
-<!-- pagebreak -->
+---
 
 Também com os porteiros  
 Com a turma da direção  
@@ -61,7 +61,7 @@ Resolveu contratar
 Dona Rosa e Dona Carmelita  
 Para os alunos ensinar.  
 
-<!-- pagebreak -->
+---
 
 Dona Rosa em Lucena  
 Em fagundes  Carmelita  
@@ -91,7 +91,7 @@ Muitos revolveram estudar
 Já apareceu outras opções  
 Para o povo trabalhar.  
 
-<!-- pagebreak -->
+---
 
 Nossa querida cidade  
 Do nordeste é a mais bonita  
@@ -122,7 +122,7 @@ Marinheiros, advogados
 Cabo, sargento e tenente  
 Acabóu-se tempo atrasado.  
 
-<!-- pagebreak -->
+---
 
 Graças a nossa educaão  
 Teve um grande avanço  
@@ -153,7 +153,7 @@ Quando não tinha energia
 Antônio de miro todo dia  
 Era quem acendia o lampião.  
 
-<!-- pagebreak -->
+---
 
 Lucena de belas paisagens  
 Como o convento da Guia  
@@ -183,7 +183,7 @@ Do Sul, Norte e  Sudeste
 O povo de Campina Grando  
 De Lucena nunca esquece.  
 
-<!-- pagebreak -->
+---
 
 Tem linda praia no centro  
 Tem praia em Costinha  

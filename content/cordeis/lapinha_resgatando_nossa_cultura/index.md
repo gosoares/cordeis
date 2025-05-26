@@ -31,7 +31,7 @@ Na estrebaria do gado
 Pelos reis do Oriente  
 Ele foi presenteado  
 
-<!-- pagebreak -->
+---
 
 A lapinha começou  
 Por volta do século XVI  
@@ -61,7 +61,7 @@ A noite ia para lapinha
 Próxima a Chico Mago  
 Dono de uma vendinha.  
 
-<!-- pagebreak -->
+---
 
 Sempre a melhor diversão  
 Naquele tempo passado  
@@ -91,7 +91,7 @@ Com belos laços de fita
 A cigana com 2 cores  
 Ficava bem mais bonita.  
 
-<!-- pagebreak -->
+---
 
 Quando falo da lapinha  
 Lembro logo de Sônia  
@@ -121,7 +121,7 @@ Duas lindas morenas
 Também Nem e Arlete  
 Leves como uma pena.  
 
-<!-- pagebreak -->
+---
 
 Tinha outras pessoas  
 Que organizavam lapinhas  
@@ -151,7 +151,7 @@ Engrandece a história
 Dança até sua bisneta  
 Encaminhada na escola.  
 
-<!-- pagebreak -->
+---
 
 Dança Maria Cecília  
 Analice e Ana Eliza  
@@ -181,7 +181,7 @@ Desde menina
 Tem uma visão ampla  
 Conhece a diciplina  
 
-<!-- pagebreak -->
+---
 
 É muito competente  
 Na cultura é seu lugar  
@@ -211,7 +211,7 @@ A sandália levanta o pó
 Divertindo muita gente  
 Papai, mamãe e vovó.  
 
-<!-- pagebreak -->
+---
 
 Fiz essa homenagem  
 Pra uma grande amiga  

@@ -34,7 +34,7 @@ A professora, Rita Ribeiro
 Antes de terminar as aulas  
 Cantávamos o Hino Brasileiro.  
 
-<!-- pagebreak -->
+---
 
 Nossos pais pagavam 01 diária  
 No dia de segunda feira  
@@ -64,7 +64,7 @@ Aonde tinha homens e meninos
 Sua religião era a católica  
 Respeitava o som do sino.  
 
-<!-- pagebreak -->
+---
 
 Quando eu era adolescente  
 Me convidava pra jogar  
@@ -94,7 +94,7 @@ Conhecido por Chiquinho
 Hoje dos filhos homem  
 Só resta o amigo Naldinho.  
 
-<!-- pagebreak -->
+---
 
 As meninas estão vivas  
 Marinalva mora no Sudeste  
@@ -124,7 +124,7 @@ Com farinha, beiju e carvão
 Adivinha quem eram os tripulantes  
 Seu Neco e João meu irmão.  
 
-<!-- pagebreak -->
+---
 
 Trabalhavam neste barco  
 Mas não eram bem prático  
@@ -154,7 +154,7 @@ O terminal era o porto do muleiro
 Seu Neco sempre oferecia  
 Uma dormida na casa dele.  
 
-<!-- pagebreak -->
+---
 
 Neco foi grande homem  
 Um bom pai e bom marido  
@@ -182,7 +182,7 @@ Dona Zefinha e seu Manoel
 Recebam esta homenagem  
 Toda em rima de cordel.  
 
-<!-- pagebreak -->
+---
 
 Manoel Cardoso da Silva nasceu num sítio chamado Sipoá no dia 26 de janeiro de 1926 e faleceu em Lucena no dia 14 de março de 1997.  
 

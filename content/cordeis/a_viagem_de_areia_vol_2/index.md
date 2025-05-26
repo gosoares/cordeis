@@ -33,7 +33,7 @@ O tempo era de chuva
 Peguei o meu brusão  
 Botei por cima da brusa.  
 
-<!-- pagebreak -->
+---
 
 Chegamos em Lucena  
 Por volta das 8;00 horas  
@@ -63,7 +63,7 @@ De Jackson do Pandeiro
 Cidade aonde nasceu  
 Foi um grande brasileiro.  
 
-<!-- pagebreak -->
+---
 
 Data do seu nascimento  
 Foi em 1919  
@@ -100,7 +100,7 @@ Embolia pulmonar  cerebral
 No dia 10 do mês de agosto  
 Deu seu suspiro final.  
 
-<!-- pagebreak -->
+---
 
 Deixando avida de Jackson  
 Com seu lindo passado  
@@ -130,7 +130,7 @@ Para os namorados não se tocarem
 O pai da moça ficava no meio  
 Para as mãos dos 02 segurar.  
 
-<!-- pagebreak -->
+---
 
 Se o pai da moça dormisse  
 E ele passasse o pé pela mão  
@@ -160,7 +160,7 @@ Foi o prato principal
 Feijão, arroz e verdura  
 Só ingredientes original.  
 
-<!-- pagebreak -->
+---
 
 O almoço muito gostoso  
 Alguém comeu exagerado  
@@ -190,7 +190,7 @@ Foi uma grande festa
 Tinha um rapaz se mijando  
 Ainda molhou a cueca.  
 
-<!-- pagebreak -->
+---
 
 Vamos deixar a floresta  
 Para falar de cachaça  
@@ -220,7 +220,7 @@ Uma vontade me chegou
 De escrever esse cordel  
 Para falar do seu amor.  
 
-<!-- pagebreak -->
+---
 
 Sonho de Maria Júlia  
 Foi pela força do amor  
@@ -278,7 +278,7 @@ E não deve mais parar
 Essa empresa tem história  
 Quem visita pode comprovar.  
 
-<!-- pagebreak -->
+---
 
 A empresa  emprega  
 Muitos da população  
@@ -338,7 +338,7 @@ Sua conduta foi genial
 Deus ilumine suas viagens  
 Que nunca aconteça o mal.  
 
-<!-- pagebreak -->
+---
 
 Muito obrigado ao guia  
 Vocẽ foi muito bacana  

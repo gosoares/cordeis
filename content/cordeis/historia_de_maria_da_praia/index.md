@@ -31,7 +31,7 @@ Todo dia estava na mata
 Cortando lenha pra carvão  
 Uma molher de muita raça.  
 
-<!-- pagebreak -->
+---
 
 Por onde ela passava  
 Só carregava alegria  
@@ -61,7 +61,7 @@ Era conhecida na cidade
 Criou seus sete filhos  
 Com amor e honestidade.  
 
-<!-- pagebreak -->
+---
 
 Era muito admirada  
 Por todos da cidade  
@@ -91,7 +91,7 @@ Agarrado na barra da saia
 Ia para o mangue tirar caranguejo  
 Dentro dos tocos e samambaias.  
 
-<!-- pagebreak -->
+---
 
 Casou-se com Lourival  
 Também muito guerreiro  

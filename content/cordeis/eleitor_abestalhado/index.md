@@ -31,7 +31,7 @@ Também não vou brigar
 Quem não vota como eu voto  
 Só preciso respeitar.  
 
-<!-- pagebreak -->
+---
 
 Não vale a pena brigar  
 Por esses incompetentes  
@@ -61,7 +61,7 @@ Neste tempo de eleição
 Sem saber em quem votar  
 Pra governar a nação.  
 
-<!-- pagebreak -->
+---
 
 No tempo da política  
 Promete o que não tem  
@@ -91,7 +91,7 @@ Vão se abraçar e fazer festa
 Só sobra pra o abestalhado  
 Aquelas velhas promessas.  
 
-<!-- pagebreak -->
+---
 
 Na próxima eleição tão junto  
 São farinha do mesmo saco  

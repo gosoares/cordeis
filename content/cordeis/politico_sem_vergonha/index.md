@@ -35,7 +35,7 @@ Um rouba outro encobre
 Leva o ouro, e o cobre  
 Deixa o povo abadonado  
 
-<!-- pagebreak -->
+---
 
 É um país desgovernado  
 Não tem quem der jeito  
@@ -69,7 +69,7 @@ Sem comida, sem dinheiro
 Bate logo o desespeiro  
 Muitos morrem  enforcado.  
 
-<!-- pagebreak -->
+---
 
 Roubar em nosso país  
 Já virou uma profição  
@@ -103,7 +103,7 @@ Que está matando o povo
 Mistura que come é ovo  
 Culpa: político sem vergonha.  
 
-<!-- pagebreak -->
+---
 
 Estão acabando com tudo  
 É um bando de caloteiros  
@@ -137,7 +137,7 @@ Não tive oportunidade
 Muito menos felicidade  
 Levei o tempo em sonhar.  
 
-<!-- pagebreak -->
+---
 
 O Brasil anda sem freio  
 Ninguém pode segurar  
@@ -171,7 +171,7 @@ Um rancho era minha casa
 Mas nunca tive tanta raiva  
 Como de político sem vergonha.  
 
-<!-- pagebreak -->
+---
 
 Morava numa fazenda  
 Muito distante da cidade  

@@ -33,7 +33,7 @@ E não consegue urinar
 Passa noite sem dormir  
 Andando pra lá e pra cá.  
 
-<!-- pagebreak -->
+---
 
 O fluco da urina fraco  
 O canal enterrompido  
@@ -63,7 +63,7 @@ Valorize mais sua vida
 Vovê não pode relachar  
 Fique na expectativa.  
 
-<!-- pagebreak -->
+---
 
 Aprobabilidade de vida  
 Para o câncer de próstata  
@@ -93,7 +93,7 @@ Termina se dando mal
 Não aceitam  a realidade  
 Quando cuida já é fatal.  
 
-<!-- pagebreak -->
+---
 
 Sempre procure um médico  
 Ele não arranca pedaço  

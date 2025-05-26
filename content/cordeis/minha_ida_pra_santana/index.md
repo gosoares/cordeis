@@ -31,7 +31,7 @@ Me parecia ser bacana
 Porém, fazia qualqer coisa  
 Pra ganhar minha grana.  
 
-<!-- pagebreak -->
+---
 
 Além dos meus primos  
 Também tinha meu irmão  
@@ -61,7 +61,7 @@ Como Marlene, João e Bau
 Galego, Antônio e Emília  
 Penha e Lourdes eram genial.  
 
-<!-- pagebreak -->
+---
 
 Lembro de outra família  
 Que eram de boa qualidade  
@@ -91,7 +91,7 @@ Mãe de Lígia, José e Luciana
 Roberto, Cacá e Maria Helena  
 Da querida enesquecível Liana.  
 
-<!-- pagebreak -->
+---
 
 Lembro de João Moreira  
 Quando casou com Lourdinha  
@@ -121,7 +121,7 @@ Criou todos sozinha
 Ficou viuva logo cedo  
 Pra ela foiu o fim da linha.  
 
-<!-- pagebreak -->
+---
 
 Voltando para tio Berto  
 Nunca levou desaforo pra casa  
@@ -151,7 +151,7 @@ Mas o que ganhavam era pouco
 Não sabiam mais o que fazer  
 Viam a hora de ficarem louco.  
 
-<!-- pagebreak -->
+---
 
 Lembro de Zé Fidele  
 Era um grande amigão  
@@ -181,7 +181,7 @@ Com o dinheiro das criações
 Vendiam os ovos das galinhas  
 Para cumprirem sua missão.  
 
-<!-- pagebreak -->
+---
 
 Também tinha outra tia  
 Que se chamava Nenzinha  
@@ -211,7 +211,7 @@ Plantava feijão, Fazia feira
 Nos domingos ainda ia a missa  
 Sempre foi fiel e verdadeira.  
 
-<!-- pagebreak -->
+---
 
 Lembro de Zé de Aceu  
 Sempre foi muito bacana  

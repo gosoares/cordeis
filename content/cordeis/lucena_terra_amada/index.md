@@ -38,7 +38,7 @@ Como dos nossos cajueiros
 Acabaram pra fazer  viveiros  
 Prejudicando o ecossistema  
 
-<!-- pagebreak -->
+---
 
 Lucena terra amada  
 Teu maravilhoso clima  
@@ -73,7 +73,7 @@ Enfrentando grandes perigos
 Com lucro ou prejuízo  
 Em busca do peixe e camarão.  
 
-<!-- pagebreak -->
+---
 
 Tu és muito importante  
 Teus frutos são naturais  
@@ -108,7 +108,7 @@ Ouvir orações e benditos
 Porque achava bonito  
 A festa do mês de maio.  
 
-<!-- pagebreak -->
+---
 
 Uma grande fogueira  
 No terreiro se via  
@@ -143,7 +143,7 @@ Quando acabava maio
 Já começava os ensaios  
 Do santo mês de João.  
 
-<!-- pagebreak -->
+---
 
 Lucena terra de Minô  
 E do Saudoso Toscano  
@@ -178,7 +178,7 @@ Em meu querido torrão
 Tenho sete palmos de  chão  
 Para nele ser sepultado.  
 
-<!-- pagebreak -->
+---
 
 Mesmo depois de morto  
 Ainda tenho  prazer  
@@ -213,7 +213,7 @@ A secretária de cultura
 Tem uma equipe à altura  
 Exerce a função com amor.  
 
-<!-- pagebreak -->
+---
 
 A secretária  Ernestina  
 Uma pessoa capacitada  
@@ -248,7 +248,7 @@ Lucena, terra que mais amou
 Aonde chorava sua dor  
 E comia camarão com arroz.  
 
-<!-- pagebreak -->
+---
 
 Se eu morrer em outro lugar  
 Findando assim minha lida  

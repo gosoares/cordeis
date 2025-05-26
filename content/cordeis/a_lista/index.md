@@ -35,7 +35,7 @@ Deus me deu esta glória
 Os sonhos que  sonhava  
 Foi a penas uma história  
 
-<!-- pagebreak -->
+---
 
 Os amores que tive  
 Só deixaram saudade  
@@ -65,7 +65,7 @@ Não sei quando morrer
 As obras da natureza  
 Ninguém pode saber.  
 
-<!-- pagebreak -->
+---
 
 Segredo não tenho nenhum  
 Minha vida é um livro aberto  
@@ -97,7 +97,7 @@ Sou ser humano também
 Tenho alguns defeitos  
 Não sou melhor que ninguém.  
 
-<!-- pagebreak -->
+---
 
 Nunca aprendi cantar  
 Minha voz é uma negação  

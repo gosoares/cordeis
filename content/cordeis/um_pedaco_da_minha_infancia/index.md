@@ -33,7 +33,7 @@ Ali mesmo dormia
 Enquanto eles não se recolhessem  
 A gente não se recolhia.  
 
-<!-- pagebreak -->
+---
 
 Era um tempo bom  
 Nas belas noites de lua  
@@ -66,7 +66,7 @@ Eram amigos bondosos
 José Lopes e Chiquinho  
 Eram todos maravilhosos  
 
-<!-- pagebreak -->
+---
 
 Meu amigo Naldinho  
 Tota de José Firmino  
@@ -96,7 +96,7 @@ Não tive o merecimento
 Esses duas perdas  
 Ainda me rói por dentro.  
 
-<!-- pagebreak -->
+---
 
 Quando tinha 07 anos  
 Estudava e trabalhava  
@@ -126,7 +126,7 @@ Se ouvia o búzio tocar
 Era ele nos chamando  
 Para vim logo se deitar  
 
-<!-- pagebreak -->
+---
 
 Antônio era o mais velho  
 Já entrava na porrada  
@@ -156,7 +156,7 @@ Muitos já  adoecendo
 Estão ficando obesos  
 A vida toda sofrendo.  
 
-<!-- pagebreak -->
+---
 
 Sou do tempo de abano  
 Nosso fogo era no chão  
@@ -186,7 +186,7 @@ Andar no mato sem guia
 Nunca era tarde nem cedo  
 Era noite ou era dia.  
 
-<!-- pagebreak -->
+---
 
 Montei a cavalo sem cela  
 Joguei bola de meia  
@@ -216,7 +216,7 @@ Fosse domingo ou feriado
 Menino não tive sorte  
 Menino cuidava de roçado.  
 
-<!-- pagebreak -->
+---
 
 Hoje é muito diferente  
 Menino pode estudar  
