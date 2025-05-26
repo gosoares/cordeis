@@ -18,14 +18,33 @@ collections:
     slug: "{{slug}}"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        default: "{{now}}"
+        date_format: "DD/MM/YYYY"
+
       - label: "Cover"
         name: "cover"
         widget: "object"
         fields:
-          - { label: "Image", name: "image", widget: "image" }
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            choose_url: false
+            allow_multiple: false
+            media_library:
+              config:
+                multiple: false
+            media_folder: ""
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
 
 # publish_mode: editorial_workflow
 site_url: "/"
