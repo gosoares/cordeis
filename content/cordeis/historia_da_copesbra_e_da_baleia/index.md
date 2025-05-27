@@ -1,6 +1,8 @@
 ---
-title: "História da Copesbra e da baleia em cordel"
+title: "História da Copesbra e da baleia"
 date: "2014-10-20"
+cover:
+  image: "cover.png"
 ---
 
 Vou contar uma história  

@@ -1,6 +1,8 @@
 ---
 title: "Político sem vergonha"
 date: "2018-04-10"
+cover:
+  image: "cover.png"
 ---
 
 O povo tem medo da zica  
@@ -12,7 +14,7 @@ O que mais machuca o povo
 É político sem vergonha.  
 
 Quando é na campanha  
-Promrte tudo a nação  
+Promete tudo a nação  
 Que vai melhorar a saúde  
 Segurança e educação  
 Quando chega no poder  
@@ -33,21 +35,21 @@ Sem saber o que fazer
 Com um país bagunçado  
 Um rouba outro encobre  
 Leva o ouro, e o cobre  
-Deixa o povo abadonado  
+Deixa o povo abandonado  
 
 ---
 
 É um país desgovernado  
 Não tem quem der jeito  
-Rouba juíz e deputado  
+Rouba juiz e deputado  
 Governador e prefeito  
 Os presidentes são um desastre  
-Na maioria não tem carater  
-Noventa por centro tem defeito.  
+Na maioria não tem caráter  
+Noventa por cento tem defeito.  
 
 No ano da campanha  
 É quando precisa do povo  
-Com a cara senvergonha  
+Com a cara sem vergonha  
 Fazendo da gente cachorro  
 Na hora de agir bate o pino  
 O aumento do salário mínimo  
@@ -59,20 +61,20 @@ Se engana com propina
 Não querem nem estudar  
 Nosso povo brasileiro  
 Troca o voto por dinheiro  
-Despois não podo cobrar.  
+Depois não pode cobrar.  
 
 A maioria da população  
-Já vivem estressado  
+Já vive estressada  
 Muitos com depressão  
 Milhões desempregados  
 Sem comida, sem dinheiro  
-Bate logo o desespeiro  
-Muitos morrem  enforcado.  
+Bate logo o desespero  
+Muitos morrem enforcados.  
 
 ---
 
 Roubar em nosso país  
-Já virou uma profição  
+Já virou uma profissão  
 À um palmo do seu nariz  
 Você só encontra ladrão  
 Não podemos passear  
@@ -80,18 +82,18 @@ Que ficamos sem o celular
 O pior: não há punição.  
 
 Os políticos brasileiros  
-Já estão acostumadps  
+Já estão acostumados  
 Rouba nosso dinheiro  
 É governo e deputado  
 O país fica sem roteiro  
-O povp no desespeiro  
+O povo no desespero  
 Sem de nada ser culpado.  
 
 O povo não aguenta mais  
 Tantos incompetentes  
 Faliram a Petrobrás  
-Quem paga e o inocente  
-Segue nessa routina  
+Quem paga é o inocente  
+Segue nessa rotina  
 Aumenta gás e gasolina  
 E congela o salário da gente.  
 

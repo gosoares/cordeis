@@ -1,6 +1,8 @@
 ---
 title: "História de José Ribeiro e Bal"
 date: "2023-04-15"
+cover:
+  image: "cover.png"
 ---
 
 Vou contar a história  

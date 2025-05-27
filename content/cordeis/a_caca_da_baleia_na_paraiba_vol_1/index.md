@@ -316,7 +316,7 @@ Eram muito explorados\
 Labutavam dia e noite\
 Pareciam até escravos\
 A turma quase não dormia\
-E pra guanhar uma mixaria\
+E pra ganhar uma mixaria\
 Só trabalhavam cansados.  
 
 Quando iniciou a pesca\
@@ -339,7 +339,7 @@ As espécies das baleias\
 Que eram capturadas\
 Mink, Azul e Jubarte\
 Eram mais procuradas\
-Já a Espardate e Cachalote\
+Já a Espadarte e Cachalote\
 Dependia muito da sorte\
 Para concluírem a caçada.  
 
@@ -439,8 +439,8 @@ Pra fazer a coisa certa
 
 Na época da proibição\
 Da pesca na comunidade\
-Viram outras alternatavas\
-Tentaram outras ativadades\
+Viram outras alternativas\
+Tentaram outras atividades\
 O povo na expectativa\
 De viver melhor a vida\
 Ter outra oportunidade  
@@ -497,7 +497,7 @@ Preferem logo estudar\
 Para depois trabalhar\
 Numa nova profissão  
 
-Lucena, a pesca artesenal\
+Lucena, a pesca artesanal\
 Ainda é a uma opção\
 Estudar o melhor caminho\
 Para formar o cidadão\
@@ -592,7 +592,7 @@ Siri, caranguejo e sururu\
 Além do peixe e o camarão.  
 
 Hoje esta cidade tem\
-Algumas aternativas\
+Algumas alternativas\
 Coco do vale, Coco Lucena\
 Estão sempre na ativa\
 Empregam muita gente\

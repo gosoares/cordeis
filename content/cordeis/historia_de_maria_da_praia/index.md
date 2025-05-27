@@ -1,9 +1,11 @@
 ---
 title: "História de Maria da Praia"
 date: "2015-09-04"
+cover:
+  image: "cover.png"
 ---
 
-Vou contar uma  histŕia  
+Vou contar uma  história  
 De uma pessoa querida  
 Trabalhava dia e noite  
 Pra prosperar sua vida  
@@ -29,7 +31,7 @@ Uma pessoa muito simpática
 Morou na fazenda Tapira  
 Todo dia estava na mata  
 Cortando lenha pra carvão  
-Uma molher de muita raça.  
+Uma mulher de muita raça.  
 
 ---
 

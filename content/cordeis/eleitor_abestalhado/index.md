@@ -1,6 +1,8 @@
 ---
 title: "Eleitor abestalhado"
 date: "2018-10-25"
+cover:
+  image: "cover.png"
 ---
 
 Neste tempo eleitoral  

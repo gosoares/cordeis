@@ -1,13 +1,15 @@
 ---
 title: "Está chegando o Natal"
 date: "2022-12-08"
+cover:
+  image: "cover.png"
 ---
 
 Queria ser um poeta  
 Com mais inspiração  
 Para fazer uma festa  
 Junto com os irmãos  
-Viver todo os dias  
+Viver todos os dias  
 Com amor e alegria  
 Na maior felicidade  
 Sempre a se divertir  
@@ -55,9 +57,9 @@ Cai chuva no nordeste
 A água corre de montão  
 A mata com seu verdume  
 A flor com seu perfume  
-Atraindo os beija-flor  
-Um inxame de abelha  
-Vem ataca as ovelha  
+Atraindo os beija-floresS  
+Um enxame de abelhas  
+Vem atacar as ovelhas  
 Na casa de seu pastor  
 
 Um cordão de borboleta  
