@@ -1,6 +1,8 @@
 ---
 title: "Lucena terra querida"
 date: "2019-07-15"
+cover:
+  image: "cover.png"
 ---
 
 Lucena alguém te amou  
@@ -27,7 +29,7 @@ Acabando nosso lazer.
 
 Lucena terra amada  
 Teu maravilhoso clima  
-Me deu de mão baijada  
+Me deu de mão beijada  
 Um mundo cheio de rima  
 O teu sol é ardente  
 Treme na vista da gente  
@@ -121,8 +123,8 @@ Bila e Fernando Monteiro.
 
 Lucena eu estou vendo  
 Que teu novo pescador  
-Não segue mais a genda  
-Nem dar o mesmo valor  
+Não segue mais a agenda  
+Nem dá o mesmo valor  
 Daquele tempo passado  
 Era maior a felicidade  
 Tinha mais diversão  

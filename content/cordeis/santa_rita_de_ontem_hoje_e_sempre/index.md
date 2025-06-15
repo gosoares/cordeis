@@ -1,6 +1,8 @@
 ---
 title: "Santa Rita de ontem hoje e sempre"
 date: "2020-10-25"
+cover:
+  image: "cover.png"
 ---
 
 Santa Rita de ontem  
@@ -52,7 +54,7 @@ Andam  em cima da risca
 Sem deixar colegas pra trás  
 Os monitores oficiais  
 Freire, Cavalcante e Formiga  
-Luciano,Sarinho e Santo  
+Luciano, Sarinho e Santo  
 São guerreiros  atuantes  
 Todos são duros na briga  
 
@@ -95,7 +97,7 @@ Tinha memória fresca.
 
 ---
 
-Conheceu João Gerimias  
+Conheceu João Jeremias  
 Falava de Egídio Madruga  
 Falava de Heraldo Gadelha  
 Falava a história das chuvas  
@@ -106,15 +108,15 @@ Sabia tudo dessa cidade
 Falava de Antônio Teixeira  
 O prefeito de Santa Rita  
 Amigo  de Zé de Oliveira  
-Dono de uma merciaria  
+Dono de uma mercearia  
 Bem no pátio da feira .  
 
 De 1965 a 69  
-Passei ali muits vezes  
+Passei ali muitas vezes  
 Na ferragem de Civaldo  
 Aonde meu tio era freguês  
 Comprava balas para o revolver  
-Nas últimas semana do mês.  
+Nas últimas semanas do mês.  
 
 Falava de Antônio Teimoso  
 E  Marcos Odilon Ribeiro  
@@ -158,7 +160,7 @@ Dr Renato era herdeiro,
 Falava de Francisquinha  
 Antônio da perfumaria  
 Os dois negociavam  
-Com remédio e bijouterias  
+Com remédio e bijuterias  
 De onde tiravam o sustento  
 Para manter suas crias  
 
@@ -167,7 +169,7 @@ Agora falo dos mais pobres
 A família dos Cardosos  
 Gente do coração nobre  
 Que muito trabalhavam  
-Para ganhar  pouco cobre.  
+Para ganhar pouco cobre.  
 
 O povo dos Moreiras  
 E o povo dos Ribeiros  
@@ -189,10 +191,10 @@ lembro Severino Cavalcante
 Era o cara da charque  
 Também vendia baleia  
 Homem de média classe  
-De um família maravilhosa  
-Gostava do seu carater  
+De uma família maravilhosa  
+Gostava do seu caráter  
 
-Lenbro o colégio João Úlcero  
+Lembro o colégio João Úlcero  
 Na chegada de Santa Rita  
 Quando passava na calçada  
 Achava a escola bonita  
@@ -203,7 +205,7 @@ Lembro do cinema São João
 Lembro do cinema Avenida  
 Bem pertinho da matriz  
 Fazia parte da minha vida  
-Aondo assistia meus filmes  
+Quando assistia meus filmes  
 Com meus amigos e amigas.  
 
 Lembro do mestre Rodolfo  
@@ -216,7 +218,7 @@ Nos finais de semanas
 ---
 
 Lembro de Zé Anorato  
-Que cuidava do açucar  
+Que cuidava do açúcar  
 Lembro de Paulo Gomes  
 Seu irmão tirava ticuca  
 O gerente Nequinho amarelo  
@@ -241,11 +243,11 @@ Um caso que aconteceu
 Um cara chamado Tilô  
 Não respeitava nem Deus  
 Vivia sem trabalhar  
-Bebia só para pertubar  
+Bebia só para perturbar  
 Só fazia coisa errada  
 Arrumou uma confusão  
 Brigou com meu irmão  
-Saiu de  cabeça lascada.  
+Saiu de cabeça lascada.  
 
 ---
 
@@ -257,7 +259,7 @@ Passou na Usina pra avisar
 Porque não ia trabalhar  
 Recebeu uma intimação  
 Raul perguntou o motivo  
-O delegade é meu amigo  
+O delegado é meu amigo  
 Vai atender minha versão  
 
 Escreveu um bilhete  
@@ -274,7 +276,7 @@ Volte para sua função.
 Aqui quero agradecer  
 Toda gestão da escola  
 Foi com grande prazer  
-Que contei esta història  
+Que contei esta história  
 E minha filha Verônica  
 Quando foi muito franca  
 Por me trazer até aqui  

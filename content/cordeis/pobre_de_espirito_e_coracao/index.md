@@ -1,6 +1,8 @@
 ---
 title: "Pobre de espírito e coração"
 date: "2017-01-20"
+cover:
+  image: "cover.png"
 ---
 
 Vou contar uma história  

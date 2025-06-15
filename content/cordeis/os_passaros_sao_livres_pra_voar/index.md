@@ -1,6 +1,8 @@
 ---
 title: "Os pássaros são livres pra voar"
 date: "2022-08-17"
+cover:
+  image: "cover.png"
 ---
 
 Quando eu era criança  
@@ -19,7 +21,7 @@ E escrever teu cordel.
 
 Ele sempre me dizia  
 Me tira desta prisão  
-Não matei ninguem  
+Não matei ninguém  
 Não sou nenhum ladrão  
 Me tira dessa gaiola  
 Me liberta da solidão.  
@@ -37,20 +39,20 @@ Eu disse querido xexéu
 Você está livre pra voar  
 Então ele me respondeu  
 Aqui eu quero ficar  
-Naquele pé de eucalípto  
+Naquele pé de eucalipto  
 É lá que eu vou morar  
 
 Não dava dez metros  
-Do eucalípto lá pra casa  
-Junto com seus  amigos  
-Faziam grande zuada  
+Do eucalipto lá pra casa  
+Junto com seus amigos  
+Faziam grande zoada  
 Gostava muito de mim  
 E eu também lhe amava.  
 
 Meu querido xexéu  
 Nunca vou lhe deixar  
 Minha casa está aberta  
-Pra quando quizer voltar  
+Pra quando quiser voltar  
 Os passarinhos são livres  
 No Céu na terra e no mar  
 
@@ -72,10 +74,10 @@ Das rimas do seu cordel
 
 Quando vejo uma gaiola  
 Dar vontade de quebrar  
-Meu enesquecível xexéu  
-Peço pra você me perduar  
+Meu inesquecível xexéu  
+Peço pra você me perdoar  
 Você tem casa e comida  
-Na hora que  quizer voltar.  
+Na hora que quiser voltar.  
 
 Meu xexéu está livre  
 Pra ele foi uma glória  
@@ -95,8 +97,8 @@ De viverem em uma prisão.
 
 Deixe meu xexéu livre  
 Não botem para brigar  
-Tenham mais humíldade  
-Para a natureza  respeitar  
+Tenham mais humildade  
+Para a natureza respeitar  
 Não prendam os passarinhos  
 E são livres pra voarem.  
 
@@ -108,19 +110,19 @@ Deixe meu xexéu em paz
 Ele é ótimo cantador.  
 
 Eles são mais bonitos  
-Todos juntos voandos  
-Pousandos nas árvores  
-Felizes  agasalhandos  
+Todos juntos voando  
+Pousando nas árvores  
+Felizes agasalhando  
 Na hora da dormida  
-Todos alegres cantandos.  
+Todos alegres cantando.  
 
 Saudade do meu xexéu  
 Bichinho de estimação  
 Hoje voa perto do Céu  
 Com a minha permissão  
-Se um dia quizer voltar  
+Se um dia quiser voltar  
 Vai ter casa pra morar  
 Garanto não ser gaiola  
 Vai ter comida e bebida  
-Me ensinou muito na  vida  
+Me ensinou muito na vida  
 Você foi a minha escola.

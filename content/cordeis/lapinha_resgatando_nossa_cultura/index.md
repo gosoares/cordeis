@@ -1,6 +1,8 @@
 ---
 title: "Lapinha - resgatando nossa cultura"
 date: "2022-12-29"
+cover:
+  image: "cover.png"
 ---
 
 A lapinha é um evento  

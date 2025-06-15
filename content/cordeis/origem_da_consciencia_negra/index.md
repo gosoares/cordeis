@@ -1,9 +1,11 @@
 ---
 title: "Origem da consciência negra"
 date: "2022-11-09"
+cover:
+  image: "cover.png"
 ---
 
-Origem da conciência negra  
+Origem da consciência negra  
 Tempo que ganhou notoriedade  
 Foi uma ação de grandeza  
 De muita responsabilidade  
@@ -14,7 +16,7 @@ Do povo de origem africana
 Escravizado no cultivo da cana  
 Trabalhava como animal.  
 
-Dia da conciência negra  
+Dia da consciência negra  
 É uma data muito festiva  
 Foi fruto da escravidão  
 Que fez parte da nossa vida  
@@ -44,12 +46,12 @@ Arrodeado de canhão e fuzil
 Os escravos refugiados  
 Somaram mais de 30 mil.  
 
-Dia da conciência negra  
+Dia da consciência negra  
 Homenageia um herói  
 Que lutou até a morte  
 Conquistou liberdade pra nós  
 Existe a Fundação Cultural  
-Martha Rosa de Queiróz  
+Martha Rosa de Queiroz  
 
 Uma homenagem justa  
 Por ser um homem bravo  
@@ -62,7 +64,7 @@ Seu nome será lembrado.
 
 Aspectos muito valorizados  
 Na cultura brasileira  
-Nossas músicas, nossos rítmos  
+Nossas músicas, nossos ritmos  
 Tem a origem verdadeira  
 São heranças africanas  
 Que levam nossa bandeira.  
@@ -73,9 +75,9 @@ Defendeu sua pátria
 Com coragem e firmeza  
 É homenageado  
 e conhecido  
-Como herói da Conciência Negra.  
+Como herói da Consciência Negra.  
 
-A conciência não tem cor  
+A consciência não tem cor  
 Precisa de compreensão  
 Dar ao povo preto mais valor  
 O que eles cobram  com razão  
@@ -83,13 +85,13 @@ Vamos analisar e refletir
 O que já fizeram aqui  
 Nunca tiveram seus direitos  
 Analisem por gentileza  
-O dia da Conciência Negra  
+O dia da Consciência Negra  
 Merece muito mais respeito.  
 
 ---
 
 Trabalharam na mineração  
-No café, na cana de açucar  
+No café, na cana de açúcar  
 Plantaram milho e feijão  
 Moravam dentro de grutas  
 E também dentro da senzala  
@@ -102,7 +104,7 @@ Que estava no seu direito.
 Zumbi  líder do quilombo  
 Morreu em 1695  
 Apanhou muito no lombo  
-Mas não abadonou seu recinto  
+Mas não abandonou seu recinto  
 Foi um herói de muita firmeza  
 Um homem de pele negra  
 Que conquistou respeito  
@@ -113,9 +115,9 @@ Para acabar com o preconceito.
 A história de Zumbi foi a luta  
 Do povo preto contra a escravidão  
 Eram considerados recrutas  
-Viviam do trabalho para  prisão  
+Viviam do trabalho para prisão  
 Os coronéis muitos ingratos  
-Só davam a eles maltratos  
+Só davam a eles maus tratos  
 Zumbi nunca concordou  
 Sem roupa e sem salário  
 Foi no quilombo dos palmares  
@@ -141,15 +143,15 @@ Levou seus atos e exemplares
 Pra dentro da sepultura  
 Não abriu mão da cultura  
 Sua morte causou muita tristeza  
-Espero que tenham conciência  
-Valorize sua competêcia  
+Espero que tenham consciência  
+Valorize sua competência  
 Pelo seus atos de grandeza.  
 
 O povo preto oriundos África  
 Ajudaram no progresso do Brasil  
 Não tinham muita prática  
 Vivendo aqui em ambiente hostil  
-Eram todos escravisados  
+Eram todos escravizados  
 Não foram recompensados  
 O que eles tinham de direito  
 Peço que tenham gentileza  

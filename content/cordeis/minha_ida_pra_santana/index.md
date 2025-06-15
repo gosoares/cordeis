@@ -1,12 +1,14 @@
 ---
 title: "Minha ida pra Santana"
 date: "2015-12-15"
+cover:
+  image: "cover.png"
 ---
 
 Vou contar uma história  
 De muita luta e sofrimento  
-Perdi mamaẽ com 12 anos  
-Ainda muito enocente  
+Perdi mamãe com 12 anos  
+Ainda muito inocente  
 Enfrentei 05 madrasta  
 A maioria incompetentes.  
 
@@ -28,7 +30,7 @@ Chegando em Chico Morais
 Fui cortar e cambitar cana  
 Foi uma boa experiência  
 Me parecia ser bacana  
-Porém, fazia qualqer coisa  
+Porém, fazia qualquer coisa  
 Pra ganhar minha grana.  
 
 ---
@@ -89,7 +91,7 @@ Minha prima da Santana
 Filha de Francisco Morais  
 Mãe de Lígia, José e Luciana  
 Roberto, Cacá e Maria Helena  
-Da querida enesquecível Liana.  
+Da querida e inesquecível Liana.  
 
 ---
 
@@ -118,8 +120,8 @@ Também lembro tia Negra
 Mãe de Valdemir e Valtinha  
 Valdir, Vioney e José Vanderlei  
 Criou todos sozinha  
-Ficou viuva logo cedo  
-Pra ela foiu o fim da linha.  
+Ficou viúva logo cedo  
+Pra ela foi o fim da linha.  
 
 ---
 
@@ -131,25 +133,25 @@ Para defender seu filho
 Acabou levando uma foiçada.  
 
 Passou mais de 03 anos  
-Quase não conceguiu falar  
+Quase não conseguiu falar  
 Quando a gente falava com ele  
 Só se ouvia resmungar  
 Ana cuidou muito dele  
-Foi difícil pra recomperar.  
+Foi difícil pra recuperar.  
 
 Ele tinha 10 filhos  
 Todos dependiam da cana  
 Moravam em Pitombeira  
-Depois mudaram-se pra Snatana  
-Faziam as mesma atividades  
+Depois mudaram-se pra Santana  
+Faziam as mesmas atividades  
 Para ganharem sua grana.  
 
 Todos viviam na luta  
 Para não passarem sufoco  
-Faziam tudo,até o impocível  
+Faziam tudo, até o impossível  
 Mas o que ganhavam era pouco  
 Não sabiam mais o que fazer  
-Viam a hora de ficarem louco.  
+Viam a hora de ficarem loucos.  
 
 ---
 
@@ -161,7 +163,7 @@ Que era de sua propriedade
 Onde vendia alimentação.  
 
 Lembro de Sebastião Merele  
-Vivia da mesma funçaõ  
+Vivia da mesma função  
 Era casado com Nevinha  
 Filha de um bom cidadão  
 Chamado Guedes Peixoto  
@@ -170,7 +172,7 @@ A quem eu tinha estimação.
 Lembro meu irmão  
 Que se chama Zé Ribeiro  
 Muito disposto e corajoso  
-Também muito guertreiro  
+Também muito guerreiro  
 Os burros que trabalhava  
 Eram manhosos e popeiros.  
 
@@ -187,7 +189,7 @@ Também tinha outra tia
 Que se chamava Nenzinha  
 Era mãe de 04 filhos  
 José, Maria e Lourinha  
-Renildo o chodó da vovó  
+Renildo o xodó da vovó  
 Que a gente chamava máe Ritinha.  
 
 Lembro de outros amigos  
@@ -199,7 +201,7 @@ Bel, Geraldo e seu irmão Genival.
 
 Lembro de Renato e Adalto  
 Esses eram 02 irmãos  
-Amaçavam os burros brabos  
+Amansavam os burros brabos  
 Tinham muita disposição  
 Carregavam eles com areia  
 Na hora da refeição.  
@@ -221,7 +223,7 @@ Foram todos pra S. Paulo
 Deixando a Usina Santana.  
 
 Eu, José Lúcio e Chico Moreira  
-Juntos faziámos noitadas  
+Juntos fazíamos noitadas  
 Íamos para Santa Rita  
 A procura das namoradas  
 Voltávamos tarde da noite  

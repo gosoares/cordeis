@@ -1,6 +1,8 @@
 ---
 title: "Lucena cidade maravilhosa"
 date: "2022-09-10"
+cover:
+  image: "cover.png"
 ---
 
 Boa tarde para todos  
@@ -26,7 +28,7 @@ Que deixei no passado.
 
 Aqui no Isaura Falcão  
 Onde fiz  grande amizade  
-Professores ealunos  
+Professores e alunos  
 Gente boas de verdade  
 Estudei conclui o médio  
 Para minha felicidade.  
@@ -70,7 +72,7 @@ Uma ação muito bonita
 Lucena está evoluindo  
 Sem ajuda de Santa Rita.  
 
-Nossa cidade cesceu  
+Nossa cidade cresceu  
 Foi grande a evolução  
 Mas temos que melhorar  
 Saúde, segurança e educação  
@@ -96,13 +98,13 @@ Para o povo trabalhar.
 Nossa querida cidade  
 Do nordeste é a mais bonita  
 Todo final de semana  
-Fica lotada de turista  
+Fica lotada de turistas  
 Vem curtir nossas praias  
-E escutarem os artista.  
+E escutarem os artistas.  
 
-A 60 anaos atrás  
+A 60 anos atrás  
 Aqui não tinha estrada  
-Os turista não vinham  
+Os turistas não vinham  
 Ver uma cidade atrasada  
 Hoje graças à Deus  
 Está mais avançada  
@@ -120,16 +122,16 @@ Professores,
 enfermeiras  
 Marinheiros, advogados  
 Cabo, sargento e tenente  
-Acabóu-se tempo atrasado.  
+Acabou-se tempo atrasado.  
 
 ---
 
-Graças a nossa educaão  
+Graças a nossa educação  
 Teve um grande avanço  
 Temos bons professores  
-Que estão sempre pronto  
+Que estão sempre prontos  
 Para ensinarem as crianças  
-Até receberem o manto.  
+Até receberem os mantos.  
 
 Também os nossos gestores  
 Que por aqui passaram  
@@ -162,7 +164,7 @@ Só chega lá fazendo trilha
 Nas barreiras de Miriri  
 É lindo o amanhecer do dia.  
 
-Tem Oiteiro de Miranmda  
+Tem Oiteiro de Miranda  
 Terra da agricultura  
 Feijão, milho, mandioca  
 Também muita verduras  
@@ -179,8 +181,8 @@ Também temos limão.
 Tem nossas lindas praias  
 As melhores do nordeste  
 Vem gente de toda parte  
-Do Sul, Norte e  Sudeste  
-O povo de Campina Grando  
+Do Sul, Norte e Sudeste  
+O povo de Campina Grande  
 De Lucena nunca esquece.  
 
 ---
@@ -189,13 +191,13 @@ Tem linda praia no centro
 Tem praia em Costinha  
 Em Fagundes e Gameleira  
 Também tem a Prainha  
-Não disfazendo das outras  
+Não desfazendo das outras  
 A mais linda é a Pontinha  
 
 Tem a fábrica Coco do Vale  
 Com seu lindo coqueiral  
 Por mais que você queira  
-Mas não ver  o final  
+Mas não ver o final  
 Voltando pra Costinha  
 A chegada da balsa é legal.  
 
@@ -203,12 +205,12 @@ Se vocês caros ouvintes
 Que conhece nossa cidade  
 Procure fazer um verso  
 Mas que seja bem rimado  
-Seja bricalhão também  
+Seja brincalhão também  
 Desse cordel encantado.  
 
 Quero terminar brincando  
 Falando coisas de amor  
 As moças são as sucenas  
 Os rapazes os beija-flor  
-Os velhos são folhas seca  
+Os velhos são folhas secas  
 Que o vento já levou.

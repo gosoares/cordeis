@@ -1,6 +1,8 @@
 ---
 title: "Lenda: Comadre Fulozinha e Tio Pedro"
 date: "2014-11-15"
+cover:
+  image: "cover.png"
 ---
 
 Vou contar uma históra  
