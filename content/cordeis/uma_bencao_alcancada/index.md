@@ -1,6 +1,8 @@
 ---
 title: "Uma bênção alcançada"
 date: "2018-05-31"
+cover:
+  image: "cover.png"
 ---
 
 Aqui faço um relato  
