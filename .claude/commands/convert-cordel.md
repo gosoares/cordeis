@@ -28,7 +28,9 @@ This command converts raw cordel text to the proper markdown format used by Hugo
 ## Conversion Rules
 
 - Replace page numbers with `---` (horizontal rules), with blank lines before and after
-- All text lines must end with `\` for proper line breaks
+- All lines within a stanza (except the last line) must end with `\` for proper line breaks
+- The last line of each stanza should NOT have `\` - it ends the stanza
+- File must end with an empty line (end with a line break)
 - Title should be converted to sentence case and appear only in frontmatter
 - Remove author, contact info, and other metadata from the content
 - Preserve the original text content without alterations
