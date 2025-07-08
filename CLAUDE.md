@@ -142,3 +142,7 @@ Converts cover images to grayscale:
 - PDF booklets are optimized for A6 paper size
 - The build process automatically generates PDFs during Docker build
 - NetlifyCMS provides a web interface for content management at `/admin/`
+
+## Commit Guidelines
+- Commit messages should be single line only
+- Do not include English translations of Portuguese titles
