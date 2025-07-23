@@ -43,3 +43,9 @@ identifier = "archives"
 name = "Acervo"
 url = "/archives/"
 weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "Sobre"
+url = "/sobre/"
+weight = 30

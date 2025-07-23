@@ -1,14 +1,16 @@
 # Cordéis do Poeta Manoel
 
 <div align="center">
-  <img src="assets/profile/poeta_manoel.png" alt="Poeta Manoel Ribeiro" width="200">
-  
-  **Acervo digital de Cordéis do Poeta Manoel Ribeiro**
-  
-  🌐 **[cordeis.gosoares.com](https://cordeis.gosoares.com)**
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-@poetamanoeldocordelpb-E4405F?style=flat&logo=instagram)](https://instagram.com/poetamanoeldocordelpb)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-(83)99917--2122-25D366?style=flat&logo=whatsapp)](https://wa.me/5583999172122)
+
+![Poeta Manoel Ribeiro](static/profile/poeta_manoel.png)
+
+**Acervo digital de Cordéis do Poeta Manoel Ribeiro**
+
+🌐 **[cordeis.gosoares.com](https://cordeis.gosoares.com)**
+
+[![Instagram](https://img.shields.io/badge/Instagram-@poetamanoeldocordelpb-E4405F?style=flat&logo=instagram)](https://instagram.com/poetamanoeldocordelpb)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(83)99917--2122-25D366?style=flat&logo=whatsapp)](https://wa.me/5583999172122)
+
 </div>
 
 ## Sobre a Coleção
@@ -86,7 +88,9 @@ Este repositório contém mais de 40 cordéis do poeta paraibano **Manoel Ribeir
 ---
 
 <div align="center">
-  <em>Preservando a tradição do cordel nordestino através da tecnologia</em>
-  <br><br>
-  <a href="https://cordeis.gosoares.com">🌐 Visite o site oficial</a>
+
+*Preservando a tradição do cordel nordestino através da tecnologia*
+
+🌐 **[Visite o site oficial](https://cordeis.gosoares.com)**
+
 </div>
