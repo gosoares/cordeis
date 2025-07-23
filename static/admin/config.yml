@@ -16,6 +16,7 @@ collections:
     path: "{{slug}}/index"
     slug: "{{slug}}"
     create: true
+    preview_path: "cordeis/{{slug}}"
     fields:
       - label: "Title"
         name: "title"
@@ -36,10 +37,9 @@ collections:
             widget: "image"
             choose_url: false
             allow_multiple: false
-            media_library:
-              config:
-                multiple: false
-            media_folder: ""
+            media_folder: "content/cordeis/{{slug}}"
+            public_folder: ""
+            default: "cover.png"
 
       - label: "Body"
         name: "body"
