@@ -1,12 +1,11 @@
 backend:
-  name: gitea
+  name: github
   repo: gosoares/cordeis
-  app_id: 2c2f367a-2a02-4172-bb0f-100b24eabb2c
-  api_root: https://git.gosoares.com/api/v1 # API URL of your Gitea instance
-  base_url: https://git.gosoares.com # Root URL of your Gitea instance
-  auth_endpoint: https://git.gosoares.com/login/oauth/authorize
   branch: main
+  squash_merges: true
 
+publish_mode: editorial_workflow
+site_url: "/"
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
@@ -45,6 +44,3 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-
-# publish_mode: editorial_workflow
-site_url: "/"
