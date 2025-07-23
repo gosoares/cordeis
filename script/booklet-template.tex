@@ -17,6 +17,15 @@ $endif$
 \usepackage{setspace}
 \usepackage{xcolor}
 \usepackage{parskip}
+\usepackage{xstring} % For string manipulation
+
+% Define command to format date from YYYY-MM-DD to DD/MM/YYYY
+\newcommand{\formatdate}[1]{%
+  \StrBefore{#1}{-}[\tempyear]%
+  \StrBetween[1,2]{#1}{-}{-}[\tempmonth]%
+  \StrBehind[2]{#1}{-}[\tempday]%
+  \tempday/\tempmonth/\tempyear%
+}
 
 % Define cordel typography style
 \renewcommand*\familydefault{\rmdefault} % Using a serif font for cordelian style
@@ -97,7 +106,7 @@ $body$
   \large @poetamanoeldocordelpb\\
   \large https://cordeis.gosoares.com\\
   $if(date)$
-  \large $date$\\
+  \large \formatdate{$date$}\\
   $endif$
 \end{center}
 \vspace*{\stretch{2}}
