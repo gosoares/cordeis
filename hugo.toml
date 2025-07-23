@@ -6,6 +6,11 @@ theme = 'PaperMod'
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
+
 [params]
 search = true
 ShowShareButtons = true
