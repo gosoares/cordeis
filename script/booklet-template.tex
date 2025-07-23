@@ -1,4 +1,4 @@
-\documentclass[a6paper,10pt]{book}
+\documentclass[10pt]{book}
 
 % Set font size based on font scale
 $if(fontscale)$
@@ -44,24 +44,11 @@ $endif$
   \renewcommand{\footrulewidth}{0pt}
 }
 
-% Define decorative elements typical of cordel literature
-\newcommand{\cordelornament}{%
-  \begin{center}
-    {\Large ✿❁✿❁✿}
-  \end{center}
-}
-
-\newcommand{\cordelline}{%
-  \begin{center}
-    \rule{0.5\textwidth}{0.4pt}
-  \end{center}
-}
 
 % Redefine the pagebreak command to properly handle the horizontal rules (---)
 \AtBeginDocument{
   \let\oldpagebreak\pagebreak
   \renewcommand{\pagebreak}{
-    \cordelornament
     \clearpage % Force a hard page break
   }
 }
@@ -87,8 +74,6 @@ $else$
   \begin{center}
     {\Huge \textbf{$title$}}\\[1.5cm]
     {\Large \textbf{Manoel Ribeiro}}
-    \vspace{1cm}
-    \cordelornament
   \end{center}
   \vspace*{\fill}
   \clearpage
@@ -114,7 +99,6 @@ $body$
   $if(date)$
   \large $date$\\
   $endif$
-  \cordelornament
 \end{center}
 \vspace*{\stretch{2}}
 
